@@ -1,4 +1,4 @@
-# Dossier de documentation du projet Le Bocal
+# Dossier de documentation du projet Echomarine
 
 Dans ce dossier, on retrouve:
 
