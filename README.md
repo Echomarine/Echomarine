@@ -1,4 +1,4 @@
-# Production du projet Le Bocal
+# Production du projet Echomarine
 C'est ici qu'on dépose les fichiers et dossiers de la production. 
 
 Dans le dossier **docs**, on retrouve:
