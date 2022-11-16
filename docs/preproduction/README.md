@@ -100,33 +100,25 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * Audio
     * 4-6 haut-parleurs actifs de 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
-  
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
-
+    * 4-6 projecteurs vidéo lentille standard
+    * 
 * Lumière
-    * 4 lumière LED RGBAW DMX
+    * 4-6 lumière DMX ou LED RGBAW DMX
     * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+ 
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
-
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
-* Ordinateur
-    * 1 ordinateur portable 
+    * Microcontroleur Arduino
+    * Rasberry Pi OS
     
 * Autre
-    * Tout autre élément pertinent
+    * 1 Grande Sphere gonflable
+    * 2 petite Sphere gonflables
+    * 6-12 détecteur de mouvements
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
