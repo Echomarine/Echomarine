@@ -147,10 +147,16 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Se procurer des sphères gonflables| Trouver un fournisseur |                                             |
-| Optimiser les sphères pour le temps hivernal     |                                                           | 
-| Projection optimisée pour une surface sphérique  |                                                        |
-                                                   
+| Se procurer des sphères gonflables assez grandes pour les projecteurs | Trouver un fournisseur avec un prix raisonnable | |
+| Optimiser les sphères pour le temps hivernal     |  | 
+| Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
+| Détecteur de mouvement fonctionnel à l'intérieur de la sphère | Faire des tests tout au long de la session |
+| Trouver une place adéquate pour la grandeur des sphères | sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
+| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère |  |
+| Configuration des capteurs de mouvements |   |
+| Protéger les projecteurs de la neige | Mettre les projecteurs dans des boîtes métalliques avec des trous à l'intérieur de la grande sphère |
+| Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente |
+                                                  
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
