@@ -137,7 +137,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 * [Reaper](https://www.reaper.fm/)
 * [Max 8](https://cycling74.com/)
 * [QLC+](https://www.qlcplus.org/)
-* [Arduino](https://www.arduino.cc/)
+* [Arduino 1.8.19](https://www.arduino.cc/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
