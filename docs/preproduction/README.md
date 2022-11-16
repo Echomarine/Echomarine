@@ -37,7 +37,7 @@ Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins 
 Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. 
 
 ## Tableau d'ambiance (*moodboard*)
-Inspirations
+###Inspirations
 ![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199820112-ac1d6914-41f7-4f8e-b308-417609cc6734.jpg)
 
  [Fête des Lumières de Lyon 2014 : invasion de méduses au Parc de la Tête d'Or ! (francetvinfo.fr)](https://www.francetvinfo.fr/culture/spectacles/fete-des-lumieres-de-lyon-2014-invasion-de-meduses-au-parc-de-la-tete-d-or_3388041.html)
@@ -48,7 +48,7 @@ Inspirations
  
 [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
 
-Style artistique des animations
+###Style artistique des animations
 ![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
 
 Palette
