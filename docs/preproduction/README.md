@@ -148,14 +148,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Se procurer des sphères gonflables assez grandes pour les projecteurs | Trouver un fournisseur avec un prix raisonnable | |
-| Optimiser les sphères pour le temps hivernal     |  | 
+| Optimiser les sphères pour le temps hivernal (température) | Recherche pour trouver comment gérer la température dans les sphères (surtout la grandes) | 
 | Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
 | Détecteur de mouvement fonctionnel à l'intérieur de la sphère | Faire des tests tout au long de la session |
 | Trouver une place adéquate pour la grandeur des sphères | sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
 | Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère |  |
-| Configuration des capteurs de mouvements |   |
+| Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Protéger les projecteurs de la neige | Mettre les projecteurs dans des boîtes métalliques avec des trous à l'intérieur de la grande sphère |
 | Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente |
+| Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
