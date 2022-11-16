@@ -55,7 +55,7 @@ Palette
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+![scenarimage](https://user-images.githubusercontent.com/90851849/202266545-f32ce852-72c0-4419-b6d2-1a624f3e7352.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
