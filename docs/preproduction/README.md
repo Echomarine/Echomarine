@@ -142,7 +142,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 * Extérieur
     * Proche de la porte 1
-    ![](medias/espace_exterieur_projet.PNG)
+    ![Image emplacement](medias/espace_exterieur_projet.PNG)
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
