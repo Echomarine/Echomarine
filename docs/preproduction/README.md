@@ -149,9 +149,10 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
-
+| Se procurer des sphères gonflables| Trouver un fournisseur |                                             |
+| Optimiser les sphères pour le temps hivernal     |                                                           | 
+| Projection optimisée pour une surface sphérique  |                                                        |
+                                                   |
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
