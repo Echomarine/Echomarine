@@ -132,7 +132,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
 * [After Effect 2022](https://www.adobe.com/be_fr/products/aftereffects.html) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Illustrator 2022](https://www.adobe.com/ca_fr/products/illustrator.html)   
 * [VCV Rack 2](https://vcvrack.com/Rack)
 * [Reaper](https://www.reaper.fm/)
