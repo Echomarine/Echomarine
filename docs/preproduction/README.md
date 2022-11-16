@@ -140,12 +140,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
+* Extérieur
+    * Prroche de la porte 1
+    ![Endroit spécifique]([medias/budget_capture_20210113.PNG](https://cmontmorency365.sharepoint.com/:i:/s/Section_A22_582523MO-000001/EbBmnxC6bNlGl6hlQFlM55YBayxQnEbEfZfti88MzK6kqw?e=PwxDQQ))
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
