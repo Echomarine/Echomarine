@@ -152,7 +152,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 | Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
 | Détecteur de mouvement fonctionnel à l'intérieur de la sphère | Faire des tests tout au long de la session |
 | Trouver une place adéquate pour la grandeur des sphères | sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
-| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère |  |
+| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table |
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Protéger les projecteurs de la neige | Mettre les projecteurs dans des boîtes métalliques avec des trous à l'intérieur de la grande sphère |
 | Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente |
