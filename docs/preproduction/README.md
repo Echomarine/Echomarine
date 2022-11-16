@@ -131,11 +131,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
+* [After Effect 2022](https://www.adobe.com/be_fr/products/aftereffects.html) 
     * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [Illustrator 2022](https://www.adobe.com/ca_fr/products/illustrator.html)   
+* [VCV Rack 2](https://vcvrack.com/Rack)
+* [Reaper](https://www.reaper.fm/)
+* [Max 8](https://cycling74.com/)
+* [QLC+](https://www.qlcplus.org/)
+* [Arduino](https://www.arduino.cc/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
