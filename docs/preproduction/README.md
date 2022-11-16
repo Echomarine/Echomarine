@@ -138,7 +138,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Extérieur
-    * Proche de la porte 1
+    * Proche de la porte 1 du Cégep Montmorency
    
 ![dehors](https://user-images.githubusercontent.com/90851849/202258292-2f892430-c14e-464e-a423-b23cd02e6914.PNG)
 
