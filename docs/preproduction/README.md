@@ -51,7 +51,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ### Style artistique des animations
 ![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
 
-Palette
+### Palette de couleur
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
 ## Scénarimage
