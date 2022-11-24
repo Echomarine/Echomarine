@@ -1,4 +1,4 @@
-# Exemple de Journal de "Participant X"
+# Exemple de Journal de Florence Lapierre
 ![portrait du participant ](../web/medias/participants/A.png)
 
 * [Semaine 1](#semaine-1)
