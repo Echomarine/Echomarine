@@ -185,21 +185,21 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Étudiant D**
+*Tracy Gua*
 
 À voir
 
 
-**Étudiant C**
+**Maria Laura Coronel**
 
 À voir
 
-**Étudiant B**
+**Florence Lapierre**
 
 À voir
 
 
-**Étudiant A**
+**Natacha Abdallah**
 
 À voir
 
