@@ -110,9 +110,9 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Rasberry Pi OS
     
 * Détection
-    * PbHUB Unit
-    * Time-of-Flight Distance Ranging Sensor Unit
-    * ATOM PoE Kit
+    * PbHUB Unit (à voir)
+    * Time-of-Flight Distance Ranging Sensor Unit (à voir)
+    * ATOM PoE Kit (à voir)
     
 * Autre
     * 1 Grande Sphere gonflable
