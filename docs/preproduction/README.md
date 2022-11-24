@@ -109,10 +109,16 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Microcontroleur Arduino
     * Rasberry Pi OS
     
+* Détection
+    * PbHUB Unit
+    * Time-of-Flight Distance Ranging Sensor Unit
+    * ATOM PoE Kit
+    
 * Autre
     * 1 Grande Sphere gonflable
     * 2 petite Sphere gonflables
     * 6-12 détecteur de mouvements
+    
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
