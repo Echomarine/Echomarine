@@ -96,8 +96,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * 8 fils XLR 3 conducteurs de 15' (M->F)
 
 * Vidéo
-    * 4-6 projecteurs vidéo lentille standard
-    * 
+    * 4-6 projecteurs vidéo lentille standard 
 * Lumière
     * 4-6 lumière DMX ou LED RGBAW DMX
     * 4 fils XLR 3 conducteurs de 20'
