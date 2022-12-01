@@ -115,7 +115,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * ATOM PoE Kit (à voir)
     
 * Autre
-    * 1 Grande Sphere gonflable
+    * 1 Grande Sphere gonflable 2-3 metrès
     * 2 petite Sphere gonflables
     * 6-12 détecteur de mouvements
     
