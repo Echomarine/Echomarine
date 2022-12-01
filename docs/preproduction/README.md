@@ -92,7 +92,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 3 haut-parleurs actifs de 4"
+    * 6 haut-parleurs actifs de 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
 
 * Vidéo
