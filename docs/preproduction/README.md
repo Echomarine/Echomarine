@@ -58,9 +58,9 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ![scene1 1](https://user-images.githubusercontent.com/90851849/205520011-cccbcc87-c80b-4a37-af2e-154b41264b8f.png)
 > Avant l’arrivée de l’interracteur:
 > 
-> -Musique d’ambiance
--Les 2 lumières bleu sont allumées
--Projection de l’océan sans animaux
+> * Musique d’ambiance
+* Les 2 lumières bleu sont allumées
+* Projection de l’océan sans animaux
 
 ![scene2 1](https://user-images.githubusercontent.com/90851849/205520031-4b56cd5d-4719-49f5-acb4-d89dfe3319aa.png)
 > Lorsque l’interracteur s’approche:
