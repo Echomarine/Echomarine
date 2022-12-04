@@ -93,7 +93,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 - 3 paysages sonores
 - 3 bruitages d'animaux
 - 1 bruitage d'océan
-- 6 vidéos d'animation 2D
+- 6 vidéos d'animation 2D: tortue, baleine bleue, 
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
