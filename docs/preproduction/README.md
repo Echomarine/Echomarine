@@ -57,20 +57,23 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ## Scénarimage
 ![scene1 1](https://user-images.githubusercontent.com/90851849/205520011-cccbcc87-c80b-4a37-af2e-154b41264b8f.png)
 > Avant l’arrivée de l’interracteur:
--Musique d’ambiance
+> 
+> -Musique d’ambiance
 -Les 2 lumières bleu sont allumées
 -Projection de l’océan sans animaux
 
 ![scene2 1](https://user-images.githubusercontent.com/90851849/205520031-4b56cd5d-4719-49f5-acb4-d89dfe3319aa.png)
 > Lorsque l’interracteur s’approche:
--Musique d’ambiance change
+> 
+> -Musique d’ambiance change
 -Les 2 lumières bleu sont allumées
 -Projection d’animaux marins qui nagent vers le haut (du coté où se trouve l’interracteur)
 -Déclenchement de bruitages en lien avec l’animation
 
 ![scene5 1](https://user-images.githubusercontent.com/90851849/205520163-8d44b77f-9d4a-4547-8bca-47b516168229.png)
 > Lorsque l’interracteur se déplace:
--Musique d’ambiance
+> 
+> -Musique d’ambiance
 -Les 2 lumières bleu sont allumées
 -Une autre projection se déclenche du côté où se trouve l’interracteur
 -Après 10 secondes sans aucune détection, la projection précédente disparaît tranquillement
@@ -78,7 +81,8 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 ![scene3 1](https://user-images.githubusercontent.com/90851849/205520036-c246af08-fd5b-4129-908d-d559e04c58c0.png)
 > Lorsque l’interracteur s’éloigne:
--Musique d’ambiance change
+> 
+> -Musique d’ambiance change
 -Les 2 lumières bleu sont allumées
 -Projection des animaux changent tranquillement pour l’animation par défaut (océan)
 -Bruitages disparaissent tranquillement
