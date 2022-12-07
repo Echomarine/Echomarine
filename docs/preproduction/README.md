@@ -122,8 +122,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Schéma de branchement 
 
-![branchement drawio](https://user-images.githubusercontent.com/90851849/206267361-2524d0dd-c2ab-4c1b-8a0e-20c96a53ce11.png)
-
+![branchement drawio](https://user-images.githubusercontent.com/90851849/206270492-b52636c4-6b4b-4df6-838a-c64474a7f355.png)
 
 ## Matériel de scénographie requis
 
