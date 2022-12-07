@@ -206,7 +206,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 
-![budget finale](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
+![budget finale](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/budget_echomarine.PNG)
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
