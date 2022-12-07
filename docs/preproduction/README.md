@@ -119,11 +119,12 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 ### Plantation 
 
-À voir
+![plantation drawio](https://user-images.githubusercontent.com/90851849/206267324-165d2c1d-8659-4aba-ba1a-c75c1f3e04e3.png)
 
 ### Schéma de branchement 
 
-À voir
+![branchement drawio](https://user-images.githubusercontent.com/90851849/206267361-2524d0dd-c2ab-4c1b-8a0e-20c96a53ce11.png)
+
 
 ## Matériel de scénographie requis
 
