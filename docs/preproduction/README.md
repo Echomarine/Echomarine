@@ -104,12 +104,9 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 -2/3 animations d'arrière plan
 
-![ocean](https://user-images.githubusercontent.com/90851849/206063707-0882cacb-dc5c-4fa7-ace7-9788857862ae.png)
-![bulles](https://user-images.githubusercontent.com/90851849/206063751-79815595-7091-4490-811d-50ad6d0e8887.png)
+![background_inspi](https://user-images.githubusercontent.com/90851849/206066973-5b1f8efe-9fbd-4bd2-8439-2c7627c3a5ee.png)
 
-![algues2](https://user-images.githubusercontent.com/90851849/206063729-9f1f1c31-b520-48cc-94af-4a06669df3b2.png)
-![algues1](https://user-images.githubusercontent.com/90851849/206063744-fe644bc2-b3ff-4d70-a4c0-6b7f0925fcb4.png)
-![coraux](https://user-images.githubusercontent.com/90851849/206064640-b7b0918f-c533-4fa2-8eb9-6ee843ad4dc4.png)
+
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
