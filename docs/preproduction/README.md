@@ -93,7 +93,14 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 - 3 paysages sonores
 - 3 bruitages d'animaux
 - 1 bruitage d'océan
-- 6 vidéos d'animation 2D: tortue, baleine bleue, 
+- 6 vidéos d'animation 2D: 
+![tortue](https://user-images.githubusercontent.com/90851849/206061509-f78f709a-e921-4162-8809-574bfaab78b9.png)
+![vaquita](https://user-images.githubusercontent.com/90851849/206061514-1cbb7315-aed8-4a39-8296-4ee8d784235b.png)
+![baleine](https://user-images.githubusercontent.com/90851849/206061522-e8459271-b300-431f-b5ca-9cd7656d0097.png)
+![grand requin blanc](https://user-images.githubusercontent.com/90851849/206061535-910d92dc-a140-4482-b62f-ede43973b5ae.png)
+![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
+![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
+
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
