@@ -102,6 +102,13 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
 ![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
 
+-2/3 animations d'arrière plan
+![ocean](https://user-images.githubusercontent.com/90851849/206063707-0882cacb-dc5c-4fa7-ace7-9788857862ae.png)
+![bulles](https://user-images.githubusercontent.com/90851849/206063751-79815595-7091-4490-811d-50ad6d0e8887.png)
+
+![algues2](https://user-images.githubusercontent.com/90851849/206063729-9f1f1c31-b520-48cc-94af-4a06669df3b2.png)
+![algues1](https://user-images.githubusercontent.com/90851849/206063744-fe644bc2-b3ff-4d70-a4c0-6b7f0925fcb4.png)
+![corails](https://user-images.githubusercontent.com/90851849/206063764-7c44228a-d32c-490e-808c-b7cce2a94bcf.png)
 
 Pour plus de détails: [Inventaire du contenu à intégrer](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/_layouts/15/Doc.aspx?OR=teams&action=edit&sourcedoc={8D242B82-E599-49CF-BE4C-EA9539D2D1C3})
 
