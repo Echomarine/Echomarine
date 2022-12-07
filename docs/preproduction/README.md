@@ -135,15 +135,15 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 6 haut-parleurs actifs de 4"
+    * 4 haut-parleurs actifs de 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
 
 * Vidéo
-    * 4-6 projecteurs vidéo lentille standard 
+    * 3 projecteurs vidéo lentille standard 
+ 
 * Lumière
     * 4-6 lumière DMX ou LED RGBAW DMX
     * 4 fils XLR 3 conducteurs de 20'
- 
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
@@ -152,14 +152,14 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
     * Rasberry Pi OS
     
 * Détection
-    * PbHUB Unit (à voir)
-    * Time-of-Flight Distance Ranging Sensor Unit (à voir)
-    * ATOM PoE Kit (à voir)
+    * PbHUB Unit 
+    * Time-of-Flight Distance Ranging Sensor Unit
+    * ATOM PoE Kit
     
 * Autre
     * 1 Grande Sphere gonflable de 3-4 metrès de diamètre
     * 2 petite Sphere gonflables
-    * 6-12 détecteur de mouvements
+    * 6 détecteurs de mouvements
     
 
 ## Logiciels requis
