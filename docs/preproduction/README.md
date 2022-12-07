@@ -206,7 +206,7 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 
-À voir
+![budget finale](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
