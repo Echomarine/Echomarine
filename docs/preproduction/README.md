@@ -115,7 +115,6 @@ Voir colonne *Exemples de réalisation* dans l'[Inventaire du contenu à intégr
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
 
 ### Plantation 
 
