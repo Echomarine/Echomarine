@@ -125,11 +125,11 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 > Liste des équipements requis par département
 
 * Audio
-    * 4 haut-parleurs
+    * 4 haut-parleurs actifs 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard 
+    * 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens
  
 * Lumière (à voir)
     * 2-4 lumière DMX ou LED RGBAW DMX 
@@ -138,13 +138,15 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 multiprise
-    * Microcontrôleur Arduino
-    * Micro Ordinateur
-    
+
+* Électronique
+    * 3 Microcontrôleur Arduino (un pour chaque projecteur)
+    * 3 Micro Ordinateur (un pour chaque projecteur)
+
 * Détection
-    * PbHUB Unit 
-    * Time-of-Flight Distance Ranging Sensor Unit
-    * ATOM PoE Kit
+    * 1-2 PbHUB Unit (6 ports pour chaque)
+    * 3-6 Time-of-Flight Distance Ranging Sensor Unit
+    * 1 ATOM PoE Kit
     
 * Autre
     * 1 Grande Sphere gonflable de 3-4 metrès de diamètre
@@ -184,12 +186,12 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 | Se procurer des sphères gonflables assez grandes pour les projecteurs | Airbulles et Lucion(peut-être) | |
 | Optimiser les sphères pour le temps hivernal (température) | Airbulles possède des sphères faites pour l'extérieur  | 
 | Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
-| Trouver une place adéquate pour la grandeur des sphères | Sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
-| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table |
+| Trouver une place adéquate pour la grandeur des sphères | Sortir prendre des photos et faire des plans pour l'emplacement de l'installation | Déjà résolu
+| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table ou sur le sol.|
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Protéger les projecteurs de la neige | Mettre les projecteurs à l'intérieur de la grande sphère |
 | Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente à l'intérieure des petites sphères|
-| Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements |
+| Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements/distance |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
