@@ -218,7 +218,8 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 **Tracy Gua (Coordination générale)**
 
-À déterminer
+- Création des animaux et des plantes dans illustrator
+- Animation des éléments dans After Effects
 
 **Maria Laura Coronel (Coordination technique)**
 
@@ -233,7 +234,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 - Création des paysages sonores.
 - Création des bruitages de la faune et de la flore marine.
 - Intégration des sons dans l'intéractivité. (Son déclenché quand l'utilisateur s'approche de la sphère)
-- Aider avec l'installation du projet. (Sphère, projecteurs, lumières, haut-parleurs,...).
+- Aider avec l'installation du projet. (Sphère, projecteurs, lumières, haut-parleurs,...)
 
 **Tâches pas encore attribuées**  
 
