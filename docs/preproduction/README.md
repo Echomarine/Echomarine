@@ -134,7 +134,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
  
 * Lumière (à voir)
     * 2-4 lumière DMX ou LED RGBAW DMX 
-    * 4 fils XLR 3 conducteurs de 20'
+    * 4 fils XLR 3 conducteurs de 20' [Amazon lien](https://www.amazon.ca/-/fr/C%C3%A2ble-dalimentation-audio-calibre-conducteurs/dp/B089SGQZWZ?th=1)
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
