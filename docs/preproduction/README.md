@@ -127,7 +127,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 * Audio
     * 4 haut-parleurs actifs 4"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
-    (https://www.amazon.ca/-/fr/Amazon-Basics-c%C3%A2bles-microphone-femelle/dp/B087KF9836/ref=sxin_15_trfobq2a_1_B087KF9836?content-id=amzn1.sym.025c206d-e7b8-45e7-a7e0-3f37bb60e355%3Aamzn1.sym.025c206d-e7b8-45e7-a7e0-3f37bb60e355&cv_ct_cx=xlr%2Bcable&keywords=xlr%2Bcable&pd_rd_i=B087KF9836&pd_rd_r=64e9ff9b-717b-44f1-b86c-1348fb6ed27c&pd_rd_w=bW5cv&pd_rd_wg=f3oBw&pf_rd_p=025c206d-e7b8-45e7-a7e0-3f37bb60e355&pf_rd_r=XPRH1V2TFWDX9K6HSE89&qid=1670535653&sr=1-2-c944532c-3909-4a2a-84a2-570d2ee3cd13&th=1)
+   [Lien amazon lot de 2] (https://www.amazon.ca/-/fr/Amazon-Basics-c%C3%A2bles-microphone-femelle/dp/B087KF9836/ref=sxin_15_trfobq2a_1_B087KF9836?content-id=amzn1.sym.025c206d-e7b8-45e7-a7e0-3f37bb60e355%3Aamzn1.sym.025c206d-e7b8-45e7-a7e0-3f37bb60e355&cv_ct_cx=xlr%2Bcable&keywords=xlr%2Bcable&pd_rd_i=B087KF9836&pd_rd_r=64e9ff9b-717b-44f1-b86c-1348fb6ed27c&pd_rd_w=bW5cv&pd_rd_wg=f3oBw&pf_rd_p=025c206d-e7b8-45e7-a7e0-3f37bb60e355&pf_rd_r=XPRH1V2TFWDX9K6HSE89&qid=1670535653&sr=1-2-c944532c-3909-4a2a-84a2-570d2ee3cd13&th=1)
 
 * Vidéo
     * 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens
