@@ -153,7 +153,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
     * Commutateur Ethernet
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
+> Liste des logiciels requis
 
 * [After Effect 2022](https://www.adobe.com/be_fr/products/aftereffects.html) 
 * [Illustrator 2022](https://www.adobe.com/ca_fr/products/illustrator.html)   
