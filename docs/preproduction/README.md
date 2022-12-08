@@ -187,8 +187,8 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 | Trouver une place adéquate pour la grandeur des sphères | Sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
 | Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table |
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Protéger les projecteurs de la neige | Mettre les projecteurs dans des boîtes métalliques avec des trous à l'intérieur de la grande sphère |
-| Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente |
+| Protéger les projecteurs de la neige | Mettre les projecteurs à l'intérieur de la grande sphère |
+| Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente à l'intérieure des petites sphères|
 | Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
@@ -230,7 +230,9 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 **Natacha Abdallah (Coordination technique)**
 
-À déterminer
+Création des paysages sonores.
+Création des bruitages de la faune et de la flore marine.
+Intégration des sons dans l'intéractivité. (Son déclenché quand l'utilisateur s'approche de la sphère)
 
 **Tâches pas encore attribuées**  
 
