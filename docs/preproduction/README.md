@@ -233,6 +233,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 Création des paysages sonores.
 Création des bruitages de la faune et de la flore marine.
 Intégration des sons dans l'intéractivité. (Son déclenché quand l'utilisateur s'approche de la sphère)
+Aider avec l'installation du projet.
 
 **Tâches pas encore attribuées**  
 
