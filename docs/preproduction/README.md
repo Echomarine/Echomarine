@@ -169,7 +169,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 * TTP, location de matériel
 * Etc.
 
-## Ressources spatiales requises (rangement et locaux)
+## Ressources spatiales requises
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Extérieur
