@@ -178,7 +178,6 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ![dehors](https://user-images.githubusercontent.com/90851849/202258292-2f892430-c14e-464e-a423-b23cd02e6914.PNG)
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
