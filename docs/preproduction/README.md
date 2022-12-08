@@ -109,7 +109,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 ### Plantation 
 
-![plantation drawio](https://user-images.githubusercontent.com/90851849/206267324-165d2c1d-8659-4aba-ba1a-c75c1f3e04e3.png)
+![plantation drawio](https://user-images.githubusercontent.com/90851849/206548370-71534d83-4a1e-47e3-a640-b543d7b1f117.png)
 
 ### Schéma de branchement 
 
