@@ -48,7 +48,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
  
 [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
 
-### Inspiration artistique pour les animations
+### Inspirations artistique pour les animations
 ![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
 
 ### Palette de couleur
