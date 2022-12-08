@@ -185,7 +185,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 | Se procurer des sphères gonflables assez grandes pour les projecteurs | Airbulles et Lucion(peut-être) | |
 | Optimiser les sphères pour le temps hivernal (température) | Airbulles possède des sphères faites pour l'extérieur  | 
 | Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
-| Trouver une place adéquate pour la grandeur des sphères | sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
+| Trouver une place adéquate pour la grandeur des sphères | Sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
 | Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table |
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Protéger les projecteurs de la neige | Mettre les projecteurs dans des boîtes métalliques avec des trous à l'intérieur de la grande sphère |
