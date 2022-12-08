@@ -125,7 +125,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 > Liste des équipements requis par département
 
 * Audio
-    * 4 haut-parleurs actifs de 4"
+    * 4 haut-parleurs
     * 8 fils XLR 3 conducteurs de 15' (M->F)
 
 * Vidéo
