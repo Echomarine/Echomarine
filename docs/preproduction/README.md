@@ -196,7 +196,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 [https://cmontmorency365-my.sharepoint.com/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBEtipPWQm46E6LE0YZ8n-dw?e=K3EffJ](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s)
 
-![budget finale](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/budget_echomarine.PNG)
+![budget](https://user-images.githubusercontent.com/90851849/206551620-18439ea3-3e08-44d4-9871-f698ea2a5022.PNG)
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
