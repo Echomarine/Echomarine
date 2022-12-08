@@ -117,12 +117,12 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des matériaux de scénographie (matériaux de décor) requis
 
 * Sphère Écran
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
+> Liste des équipements requis par département
 
 * Audio
     * 4 haut-parleurs actifs de 4"
