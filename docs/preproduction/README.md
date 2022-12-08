@@ -224,25 +224,23 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 **Tracy Gua**
 
-À voir
-
+À déterminer
 
 **Maria Laura Coronel**
 
-À voir
-
+À déterminer
 **Florence Lapierre**
 
-À voir
+À déterminer
 
 
 **Natacha Abdallah**
 
-À voir
+À déterminer
 
 **Tâches pas encore attribuées**  
 
-À voir
+À déterminer
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
