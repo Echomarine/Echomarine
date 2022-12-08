@@ -131,15 +131,15 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 * Vidéo
     * 3 projecteurs vidéo lentille standard 
  
-* Lumière
-    * 4-6 lumière DMX ou LED RGBAW DMX
+* Lumière (à voir)
+    * 2-4 lumière DMX ou LED RGBAW DMX 
     * 4 fils XLR 3 conducteurs de 20'
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 multiprise
-    * Microcontroleur Arduino
-    * Rasberry Pi OS
+    * Microcontrôleur Arduino
+    * Micro Ordinateur
     
 * Détection
     * PbHUB Unit 
