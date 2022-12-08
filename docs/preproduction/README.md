@@ -150,7 +150,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
     * 1 Grande Sphere gonflable de 3-4 metrès de diamètre
     * 2 petite Sphere gonflables
     * 6 détecteurs de mouvements
-    
+    * Commutateur Ethernet
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
