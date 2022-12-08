@@ -222,10 +222,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 **Maria Laura Coronel**
 
 À déterminer
+
 **Florence Lapierre**
 
 À déterminer
-
 
 **Natacha Abdallah**
 
