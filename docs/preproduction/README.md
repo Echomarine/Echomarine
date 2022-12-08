@@ -113,7 +113,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 ### Schéma de branchement 
 
-![branchement drawio](https://user-images.githubusercontent.com/90851849/206270492-b52636c4-6b4b-4df6-838a-c64474a7f355.png)
+![branchement drawio](https://user-images.githubusercontent.com/90851849/206549696-8f318e20-ef1a-42c7-9be5-5e7bc219fc4a.png)
 
 ## Matériel de scénographie requis
 
