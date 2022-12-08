@@ -145,9 +145,9 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
     * 3 Micro Ordinateur (un pour chaque projecteur)
 
 * Détection
-    * 1-2 PbHUB Unit (6 ports pour chaque)
-    * 3-6 Time-of-Flight Distance Ranging Sensor Unit
-    * 1 ATOM PoE Kit
+    * 1-2 PbHUB Unit (6 ports pour chaque) [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/i-o-hub-1-to-6-expansion-unit-stm32f0)
+    * 3-6 Time-of-Flight Distance Ranging Sensor Unit [M5STACK](https://shop.m5stack.com/products/tof-sensor-unit)
+    * 1 ATOM PoE Kit [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/atom-poe-kit-with-w5500-hy601742e?variant=37765855510700)
     
 * Autre
     * 1 Grande Sphere gonflable de 3-4 metrès de diamètre
