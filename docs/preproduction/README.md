@@ -182,10 +182,9 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Se procurer des sphères gonflables assez grandes pour les projecteurs | Trouver un fournisseur avec un prix raisonnable | |
-| Optimiser les sphères pour le temps hivernal (température) | Recherche pour trouver comment gérer la température dans les sphères (surtout la grandes) | 
+| Se procurer des sphères gonflables assez grandes pour les projecteurs | Airbulles et Lucion(peut-être) | |
+| Optimiser les sphères pour le temps hivernal (température) | Airbulles possède des sphères faites pour l'extérieur  | 
 | Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
-| Détecteur de mouvement fonctionnel à l'intérieur de la sphère | Faire des tests tout au long de la session |
 | Trouver une place adéquate pour la grandeur des sphères | sortir prendre des photos et faire des plans pour l'emplacement de l'installation |
 | Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table |
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
