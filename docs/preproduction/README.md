@@ -34,7 +34,7 @@
 Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
 
 ## Synopsis
-Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. 
+Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. (On va faire des projections sur trois murs dans le petit sudio à la place de la sphère).
 
 ## Tableau d'ambiance (*moodboard*)
 ### Inspirations
