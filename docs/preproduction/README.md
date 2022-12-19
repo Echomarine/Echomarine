@@ -150,7 +150,6 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
     * 1 ATOM PoE Kit [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/atom-poe-kit-with-w5500-hy601742e?variant=37765855510700)
     
 * Autre
-    * 1 Grande Sphere gonflable de 3-4 metrès de diamètre
     * 2 petite Sphere gonflables [Amazon lien](https://www.amazon.ca/-/fr/piscine-flottantes-gonflables-%C3%A9tanches-%C3%A9nergie/dp/B08936Q2S3/ref=sr_1_27?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1HSX8UTQYDNMY&keywords=inflatable+sphere+illuminate&qid=1670536602&sprefix=sphere+gonflable+iluminer%2Caps%2C48&sr=8-27)
     * 6 détecteurs de mouvements
     * Commutateur Ethernet
