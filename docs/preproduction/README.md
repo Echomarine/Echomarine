@@ -183,14 +183,14 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Se procurer des sphères gonflables assez grandes pour les projecteurs | Airbulles et Lucion(peut-être) | |
-| Optimiser les sphères pour le temps hivernal (température) | Airbulles possède des sphères faites pour l'extérieur  | 
-| Projection optimisée pour une surface sphérique  | Faire des tests et explorer tout ça tout au long de la session prochaine |
-| Trouver une place adéquate pour la grandeur des sphères | Sortir prendre des photos et faire des plans pour l'emplacement de l'installation | Déjà résolu
-| Trouver une place ou mettre les projecteurs à l'intérieur de la grande sphère | Mettre autour du milieu chacun fait face à un côté de la sphère sur une table ou sur le sol.|
+| Trouver une façon de cacher les nombreux fils dans le petit studio | Faire des tests la session prochaine | |
+| Trouver une place adéquate ou mettre le ou les capteurs de mouvements  | Faire des tests la session prochaine  |
+| Trouver une place adéquate ou mettre le ou les capteurs de distance  | Faire des tests la session prochaine  |
+| Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests la session prochaine |
+| Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Protéger les projecteurs de la neige | Mettre les projecteurs à l'intérieur de la grande sphère |
-| Protéger les lumières de la neige | Mettre les lumières sur des boîtes lourdes dans une boîte transparente à l'intérieure des petites sphères|
+| Configuration des capteurs de distance | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
+| Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino) | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements/distance |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
