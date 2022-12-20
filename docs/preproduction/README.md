@@ -126,8 +126,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 > Liste des matériaux de scénographie (matériaux de décor) requis
 
-* Sphère Écran
-
 ## Équipements requis
 > Liste des équipements requis par département
 
@@ -138,18 +136,14 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 * Vidéo
     * 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens
- 
-* Lumière (à voir)
-    * 2-4 lumière DMX ou LED RGBAW DMX 
-    * 4 fils XLR 3 conducteurs de 20' [Amazon lien](https://www.amazon.ca/-/fr/C%C3%A2ble-dalimentation-audio-calibre-conducteurs/dp/B089SGQZWZ?th=1)
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 multiprise
 
 * Électronique
-    * 3 Microcontrôleur Arduino (un pour chaque projecteur)
-    * 3 Micro Ordinateur (un pour chaque projecteur)
+    * 6 Microcontrôleur Arduino
+    * 6 Micro Ordinateur Arduino
 
 * Détection
     * 1-2 PbHUB Unit (6 ports pour chaque) [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/i-o-hub-1-to-6-expansion-unit-stm32f0)
@@ -181,10 +175,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ## Ressources spatiales requises
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Extérieur
-    * Proche de la porte 1 du Cégep Montmorency
-   
-![dehors](https://user-images.githubusercontent.com/90851849/202258292-2f892430-c14e-464e-a423-b23cd02e6914.PNG)
+* Intérieur
+Grand Studio, première moitié du cyclo
 
 ## Contraintes techniques et potentiels problèmes de production
 
@@ -204,8 +196,11 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ## Budget prévisionnel
 
 [https://cmontmorency365-my.sharepoint.com/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBEtipPWQm46E6LE0YZ8n-dw?e=K3EffJ](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s)
-
+#### Premier budget
 ![budget](https://user-images.githubusercontent.com/90851849/206551620-18439ea3-3e08-44d4-9871-f698ea2a5022.PNG)
+#### Nouveau budget
+![budget2](https://user-images.githubusercontent.com/90851849/208737024-1c65510c-a758-4eca-843f-4860701d702c.jpg)
+
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
