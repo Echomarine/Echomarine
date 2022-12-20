@@ -160,7 +160,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * [VCV Rack 2](https://vcvrack.com/Rack)
 * [Reaper](https://www.reaper.fm/)
 * [Max 8](https://cycling74.com/)
-* [QLC+](https://www.qlcplus.org/)
 * [Arduino 1.8.19](https://www.arduino.cc/)
 
 ## Ressources humaines requises
