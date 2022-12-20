@@ -114,10 +114,10 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 ### Schéma de branchement 
 
-### En utilisant la kinect
+#### En utilisant la kinect
 ![branchement drawio (1)](https://user-images.githubusercontent.com/90851849/208731298-0b95eeeb-c37d-4316-b0c1-8cc0078fb96e.png)
 
-### En utilisant des détecteurs de distance
+#### En utilisant des détecteurs de distance
 ![branchement drawio](https://user-images.githubusercontent.com/90851849/208731318-7ecb9809-b901-42a4-9789-8e21d1c48679.png)
 
 
