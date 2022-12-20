@@ -28,7 +28,7 @@
 
 # Intention ou concept
 ## Cartographie
-![projetgit drawio (1)](https://user-images.githubusercontent.com/90851849/202269855-662934f1-b58e-4262-a94c-9387a72d2e25.png)
+![carto](https://user-images.githubusercontent.com/90851849/208739670-663bcbb9-4abc-4a58-9660-dd82645f35ab.png)
 
 ## Intention de départ
 Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
