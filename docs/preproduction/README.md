@@ -180,14 +180,11 @@ Grand Studio, première moitié du cyclo
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Trouver une façon de cacher les nombreux fils dans le petit studio | Faire des tests la session prochaine | |
-| Trouver une place adéquate ou mettre le ou les capteurs de mouvements  | Faire des tests la session prochaine  |
 | Trouver une place adéquate ou mettre le ou les capteurs de distance  | Faire des tests la session prochaine  |
 | Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests la session prochaine |
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
-| Configuration des capteurs de mouvements | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Configuration des capteurs de distance | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino) | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Vérifier si on a besoin des adapteurs pour brancher les lumières à l'arduino | Faire une recherche internet pour trouver une source pour l'achat | Sinon, les lumières vont êtres contrôlés avec QLC+ seulement et non les détecteurs de mouvements/distance |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
