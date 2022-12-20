@@ -130,7 +130,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Liste des équipements requis par département
 
 * Audio
-    * 4 haut-parleurs actifs 4" [Best Buy](https://www.bestbuy.ca/en-ca/product/polk-audio-polk-audio-atrium-4-80-watt-all-weather-outdoor-speaker-pair-atrium-4/10160922)
+    * 3 hauts-parleur actifs 4" [Best Buy](https://www.bestbuy.ca/en-ca/product/polk-audio-polk-audio-atrium-4-80-watt-all-weather-outdoor-speaker-pair-atrium-4/10160922)
 
 * Vidéo
     * 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens
