@@ -34,7 +34,7 @@
 Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
 
 ## Synopsis
-Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. (On va faire des projections sur trois murs dans le petit sudio à la place de la sphère).
+Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Inspirations
@@ -54,7 +54,7 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ### Palette de couleur
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
-## Scénarimage
+## Scénarimage (formule de présentation possible)
 ![scene1 1](https://user-images.githubusercontent.com/90851849/205520011-cccbcc87-c80b-4a37-af2e-154b41264b8f.png)
 > Avant l’arrivée de l’interracteur:
 > 
@@ -110,10 +110,16 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 ### Plantation 
 
 ![plantation drawio](https://user-images.githubusercontent.com/90851849/206548370-71534d83-4a1e-47e3-a640-b543d7b1f117.png)
+![plantation drawio](https://user-images.githubusercontent.com/90851849/208731597-d8b528c0-13cd-4f00-9d19-96740aef086c.png)
 
 ### Schéma de branchement 
 
-![branchement drawio](https://user-images.githubusercontent.com/90851849/206549696-8f318e20-ef1a-42c7-9be5-5e7bc219fc4a.png)
+### En utilisant la kinect
+![branchement drawio (1)](https://user-images.githubusercontent.com/90851849/208731298-0b95eeeb-c37d-4316-b0c1-8cc0078fb96e.png)
+
+### En utilisant des détecteurs de distance
+![branchement drawio](https://user-images.githubusercontent.com/90851849/208731318-7ecb9809-b901-42a4-9789-8e21d1c48679.png)
+
 
 ## Matériel de scénographie requis
 
