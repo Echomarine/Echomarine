@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Vivamus lacinia tincidunt dui, non auctor justo. 
+- Création de mon journal
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
