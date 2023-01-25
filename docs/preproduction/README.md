@@ -145,11 +145,12 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
     * 6 Micro Ordinateur Arduino
 
 * Détection
-    * Kinect (fourni par le Cegep)
-    * 3-6 Time-of-Flight Distance Ranging Sensor Unit [M5STACK](https://shop.m5stack.com/products/tof-sensor-unit)
-    * 1 ATOM PoE Kit [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/atom-poe-kit-with-w5500-hy601742e?variant=37765855510700)
-    
-
+    * Kinect (fourni par le Cegep) 
+   
+* Autre
+ * Trépied pour tablette
+ * [Affiche] ()
+ 
 ## Logiciels requis
 > Liste des logiciels requis
 
