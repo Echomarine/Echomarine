@@ -247,7 +247,7 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- Lundi 9h (1h-2h)** : Rencontre de suivi de projet.
 
 Autre: 
-- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet.
+- mardi 9h (1h-2h)** : Rencontre de suivi de projet.
