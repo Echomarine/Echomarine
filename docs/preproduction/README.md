@@ -188,8 +188,9 @@ Petit Studio
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
+[Budge](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/EUvS8pWWgstJhR6gW7aCZssBSVC4IfTa4KqlvZf_PCl-OQ?wdOrigin=TEAMS-ELECTRON.p2p.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1674676100784&web=1)
 ![image_budget](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/image_budget_interieur.PNG)
-[Budget 2](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s&isSPOFile=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
+
 
 
 ## Échéancier global
