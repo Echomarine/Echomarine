@@ -15,9 +15,8 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Création de mon journal
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
+- Création du budget 
+- Moodboard de notre site web intéractif
 - Praesent viverra tristique malesuada. 
 - Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
 - Phasellus blandit elit eu nibh blandit molestie. 
