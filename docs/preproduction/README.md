@@ -148,8 +148,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
     * Kinect (fourni par le Cegep) 
    
 * Autre
- * [Trépied pour tablette](https://www.amazon.ca/Lamicall-tablette-compatible-t%C3%A9l%C3%A9phones-portables/dp/B0894N579V/ref=sr_1_24_sspa?keywords=stand%2Bfor%2Btablet&qid=1674674027&sprefix=stadn%2Bfor%2Bta%2Caps%2C70&sr=8-24-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPNFpDWU1PN1YwQlQmZW5jcnlwdGVkSWQ9QTA5MDg5MjMxOEVMT05aOElPWTgyJmVuY3J5cHRlZEFkSWQ9QTAwNjU2ODAxRFVHNFZIRjBSMk8md2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
- * [Affiche](https://www.vistaprint.ca/fr/produits-affichage/affiches)
+  * [Trépied pour tablette](https://www.amazon.ca/Lamicall-tablette-compatible-t%C3%A9l%C3%A9phones-portables/dp/B0894N579V/ref=sr_1_24_sspa?keywords=stand%2Bfor%2Btablet&qid=1674674027&sprefix=stadn%2Bfor%2Bta%2Caps%2C70&sr=8-24-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPNFpDWU1PN1YwQlQmZW5jcnlwdGVkSWQ9QTA5MDg5MjMxOEVMT05aOElPWTgyJmVuY3J5cHRlZEFkSWQ9QTAwNjU2ODAxRFVHNFZIRjBSMk8md2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
+  * [Affiche](https://www.vistaprint.ca/fr/produits-affichage/affiches)
  
 ## Logiciels requis
 > Liste des logiciels requis
