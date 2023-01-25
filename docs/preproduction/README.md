@@ -195,10 +195,6 @@ Grand Studio, première moitié du cyclo
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 
-#### Premier budget
-[Budget 1](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s)
-![budget](https://user-images.githubusercontent.com/90851849/206551620-18439ea3-3e08-44d4-9871-f698ea2a5022.PNG)
-
 #### Nouveau budget
 [Budget 2](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s&isSPOFile=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
 ![budget2](https://user-images.githubusercontent.com/90851849/208737024-1c65510c-a758-4eca-843f-4860701d702c.jpg)
