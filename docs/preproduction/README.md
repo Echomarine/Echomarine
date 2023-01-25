@@ -114,9 +114,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ## Schémas ou plans techniques
 
 ### Plantation 
-#### Version extérieur
-![plantation drawio](https://user-images.githubusercontent.com/90851849/206548370-71534d83-4a1e-47e3-a640-b543d7b1f117.png)
-#### Version intérieur
 ![schema_plantation](https://user-images.githubusercontent.com/90852900/214657990-437ec772-e02d-4345-ad1e-9ea408d9535c.png)
 
 
@@ -125,8 +122,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 #### En utilisant la kinect
 ![branchement drawio (1)](https://user-images.githubusercontent.com/90851849/208731298-0b95eeeb-c37d-4316-b0c1-8cc0078fb96e.png)
 
-#### En utilisant des détecteurs de distance
-![branchement drawio](https://user-images.githubusercontent.com/90851849/208731318-7ecb9809-b901-42a4-9789-8e21d1c48679.png)
 
 
 ## Matériel de scénographie requis
