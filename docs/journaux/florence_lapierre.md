@@ -15,9 +15,9 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Création du budget 
+- Recherche de matériel manquant (trépied à tablette, affiche)
 - Moodboard de notre site web intéractif
-- Praesent viverra tristique malesuada. 
+- Budget de notre projet
 - Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
 - Phasellus blandit elit eu nibh blandit molestie. 
 - Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
