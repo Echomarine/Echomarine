@@ -131,7 +131,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Liste des équipements requis par département
 
 * Audio
-    * 3 hauts-parleur actifs 4" [Best Buy](https://www.bestbuy.ca/en-ca/product/polk-audio-polk-audio-atrium-4-80-watt-all-weather-outdoor-speaker-pair-atrium-4/10160922)
+    * 4 hauts-parleur actifs 4" [Best Buy](https://www.bestbuy.ca/en-ca/product/polk-audio-polk-audio-atrium-4-80-watt-all-weather-outdoor-speaker-pair-atrium-4/10160922)
 
 * Vidéo
     * 3 projecteurs vidéo lentille short throw(ratio 0,5) 3000 lumens
@@ -145,13 +145,10 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
     * 6 Micro Ordinateur Arduino
 
 * Détection
-    * 1-2 PbHUB Unit (6 ports pour chaque) [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/i-o-hub-1-to-6-expansion-unit-stm32f0)
+    * Kinect (fourni par le Cegep)
     * 3-6 Time-of-Flight Distance Ranging Sensor Unit [M5STACK](https://shop.m5stack.com/products/tof-sensor-unit)
     * 1 ATOM PoE Kit [M5STACK](https://shop.m5stack.com/collections/m5-sensor/products/atom-poe-kit-with-w5500-hy601742e?variant=37765855510700)
     
-* Autre
-    * Kinect (fourni par le Cegep)
-    * Commutateur Ethernet
 
 ## Logiciels requis
 > Liste des logiciels requis
