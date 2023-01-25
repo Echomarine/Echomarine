@@ -179,7 +179,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Intérieur
-Grand Studio, première moitié du cyclo
+Petit Studio
 
 ## Contraintes techniques et potentiels problèmes de production
 
