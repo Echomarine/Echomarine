@@ -192,7 +192,6 @@ Petit Studio
 
 #### Nouveau budget
 [Budget 2](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/2037404_cmontmorency_qc_ca/ESuzKvMLP_pOrw7LRU42LCUBGF6eNe3AtM3gEyVkS45kaw?e=0i3j2s&isSPOFile=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjExMzAwNDEwMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D)
-![budget2](https://user-images.githubusercontent.com/90851849/208737024-1c65510c-a758-4eca-843f-4860701d702c.jpg)
 
 
 ## Échéancier global
