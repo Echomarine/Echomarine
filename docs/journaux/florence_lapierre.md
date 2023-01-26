@@ -37,7 +37,7 @@
 Oui, j'ai accompli l'ensemble de mes tâches pour cette semaine. Pour mes objectifs, je me suis fixé d'avancer en majeure partie notre préproduction et je l'ai accomplie.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -47,14 +47,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+La préproduction n'est pas terminée, car on n'a dû recommencer une bonne partie, à cause de changement majeur de notre concept.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Mon équipe et moi allons travailler plus fort pour remettre notre préproduction à temps.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
-
+Le défis pour la semaine prochaine est de finaliser la préproduction et de faire la vidéo.
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
