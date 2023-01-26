@@ -56,8 +56,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 #### Typo Site Web
 [typographie](https://fonts.google.com/specimen/Varela+Round?category=Sans+Serif,Display,Monospace#styles)
 
-### Inspirations artistique pour les animations
-![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
+### Inspirations pour les animations
+
 
 ### Palette de couleur
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
