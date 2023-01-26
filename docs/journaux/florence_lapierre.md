@@ -25,7 +25,7 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
 ou
-![ici est une description de l'image](medias/console.jpg)
+![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_site_web.png)
 ou
 ![ici est une description de l'image](medias/photoshop.jpg)
 
