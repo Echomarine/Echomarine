@@ -56,6 +56,10 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 #### Typo Site Web
 [typographie](https://fonts.google.com/specimen/Varela+Round?category=Sans+Serif,Display,Monospace#styles)
 
+### Maquette du site web
+![acceuil]()
+![animaux]()
+![individuel]()
 ### Inspirations pour les animations
 
 [Scénarimages des animations](https://www.figma.com/file/Viz7kn8Mhi2pYUxLinJpf8/sc%C3%A9narimages-echomarine?node-id=0%3A1&t=49voXBruhRT99lS7-1)
