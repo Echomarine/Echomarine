@@ -27,8 +27,7 @@
 
 ![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_site_web.png)
 
-![ici est une description de l'image]
-(https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
+![ici est une description de l'image(https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
 - [ ] Assez
