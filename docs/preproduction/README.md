@@ -139,6 +139,9 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * Vidéo
     * 3 projecteurs vidéo (fourni par le Cegep) 
     lentille short throw(ratio 0,5) 3000 lumens
+    
+* Web
+    * Tablette tactile
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
