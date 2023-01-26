@@ -34,7 +34,7 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Oui j'ai accompli l'ensemble de mes tâches pour cette semaine.Pour mes objectifs je me suis fixer d'avancer en majeur partie notre préproduction et je l'est accomplie.
+Oui, j'ai accompli l'ensemble de mes tâches pour cette semaine. Pour mes objectifs, je me suis fixé d'avancer en majeure partie notre préproduction et je l'ai accomplie.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
