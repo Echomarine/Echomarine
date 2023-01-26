@@ -24,7 +24,7 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
 
-![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_site_web.png)
+![ici est une description de l'image]((https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/image_budget_interieur.PNG))
 
 ![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
