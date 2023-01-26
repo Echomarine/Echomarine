@@ -15,13 +15,13 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Allo! Konichiwa!! 
-- Fusce euismod ornare dolor. 
-- Vestibulum euismod, nulla eu blandit mollis, erat diam convallis lorem, consectetur rhoncus libero sapien in enim. 
-- Praesent viverra tristique malesuada. 
-- Mauris ex ligula, eleifend sed tellus ac, elementum blandit nunc. 
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Schéma de la plantation.
+- Schéma du branchement.
+- Inspiration sonore.
+-  
+- 
+-  
+- 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
