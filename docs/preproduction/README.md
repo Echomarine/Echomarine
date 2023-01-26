@@ -226,7 +226,8 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 
 **Florence Lapierre (Coordination artistique)**
 
-À déterminer
+-  Création du Site Web
+
 
 **Natacha Abdallah (Coordination technique)**
 
