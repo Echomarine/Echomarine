@@ -54,6 +54,7 @@ Mon équipe et moi allons travailler plus fort pour remettre notre préproductio
 
 #### Défis pour la prochaine semaine.
     Le défi pour la semaine prochaine est de finaliser la préproduction et de faire la vidéo à temps pour mardi.
+    
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
