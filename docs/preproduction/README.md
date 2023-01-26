@@ -189,7 +189,7 @@ Petit Studio
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino et le site web) | Recherche internet pour des tutoriels et faire des tests 
 | Emplacement de la kinect et la communication de données| Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Envoi de donner du site web au projection| Tester websocket osc  |
+| Envoi de donner du site web au projection| Tester websocket osc | ou autre  communication de données
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
