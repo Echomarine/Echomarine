@@ -19,8 +19,7 @@
 - Moodboard de notre site web intéractif
 - Budget de notre projet
 - Contraintes techniques et potentiels problèmes de production
-- Phasellus blandit elit eu nibh blandit molestie. 
-- Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
+- Maquette du site web
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
