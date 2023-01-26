@@ -142,11 +142,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 multiprise
-
-* Électronique
-    * 6 Microcontrôleur Arduino
-    * 6 Micro Ordinateur Arduino
 
 * Détection
     * Kinect (fourni par le Cegep) 
@@ -164,6 +159,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * [Reaper](https://www.reaper.fm/)
 * [Max 8](https://cycling74.com/)
 * [Arduino 1.8.19](https://www.arduino.cc/)
+* Visual Studio Code 
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
