@@ -125,9 +125,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 
 ### Schéma de branchement 
-
-#### En utilisant la kinect
-![schema_branchement](https://user-images.githubusercontent.com/90852900/214669821-22fd14b8-a061-4132-bda0-f6dadd30b8da.png)
+![schema_branchement](https://user-images.githubusercontent.com/90852900/214925649-7c59db43-1a0d-405b-a446-dbc88891cd4a.png)
 
 
 ## Matériel de scénographie requis
