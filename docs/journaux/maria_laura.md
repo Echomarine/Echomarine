@@ -45,7 +45,7 @@ parce que j'ai accompli la plupart de mes tachês de cette semaine. Il va manque
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Le préproduction n'est pas encore terminé. On a dû recommencer une grosse partie à cause des changements. 
+Le préproduction n'est pas encore terminée. On a dû recommencer une grosse partie à cause des changements. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 On va travailler plus fort. 
