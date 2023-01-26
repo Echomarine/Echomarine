@@ -17,19 +17,17 @@
 ### Résumé des réalisations effectuées
 - Schéma de la plantation.
 - Schéma du branchement.
-- Inspiration sonore.
--  
-- 
--  
-- 
+- Trouver des inspirations sonore.
+- Re-évaluer les contraintes.
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
