@@ -117,7 +117,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ## Schémas ou plans techniques
 
 ### Plantation 
-![schema_plantation](https://user-images.githubusercontent.com/90852900/214657990-437ec772-e02d-4345-ad1e-9ea408d9535c.png)
+![schema_plantation](https://user-images.githubusercontent.com/90852900/214894403-31dcb8a0-d57b-4415-9068-d8ceb1b60ed7.png)
 
 
 ### Schéma de branchement 
