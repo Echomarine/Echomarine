@@ -41,10 +41,15 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![moodboard_de_base](https://user-images.githubusercontent.com/90851849/214867708-bc6e1178-d9a9-4c4f-9c98-58567f644773.jpg)
 
 [Jim Curious(Nuit) - 2024](https://www.editions2024.com/expo-jcn)
+
 [Sketch Aquarium](https://www.blipfoto.com/entry/2582054952968916398)
+
 [Louvre Abu Dhabi - Dragon et phénix](https://www.pxn.fr/oeuvre/louvre-abu-dhabi-dragon-et-phenix/)
+
 [Fashion Press](https://www.fashion-press.net/news/11241)
+
 [Acuario Gran Canaria](https://www.tripadvisor.fr/Attraction_Review-g187472-d14788537-Reviews-Acuario_Gran_Canaria-Las_Palmas_de_Gran_Canaria_Gran_Canaria_Canary_Islands.html#/media-atf/14788537/461682554:p/?albumid=-160&type=0&category=-160)
+
 ### Inspiration Site Web
 ![inspiration web](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
 
