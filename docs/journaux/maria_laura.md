@@ -15,7 +15,7 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-* Excel pour le contenu multimedia à integrer.
+* Excel pour le contenu multimédia à integrer
 * Paragraphe sur chaque animal 
 * Exemples des sons 
 * Recherche web + projection
@@ -25,21 +25,21 @@
 ![ici est une description de l'image](https://user-images.githubusercontent.com/90852162/214964424-56687681-ed8c-4acb-a107-663777ef194c.PNG)
 )
 ou
-![ici est une description de l'image](medias/console.jpg)
+![ici est une description de l'image]()
 ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image]()
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
-- [x] Peu
+- [x] Assez
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -49,13 +49,13 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Finir la préproduction et la vidéo avant mardi.
 
 ---
 ## Semaine 2
