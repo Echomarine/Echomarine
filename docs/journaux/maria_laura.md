@@ -24,10 +24,6 @@
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](https://user-images.githubusercontent.com/90852162/214964424-56687681-ed8c-4acb-a107-663777ef194c.PNG)
 )
-ou
-![ici est une description de l'image]()
-ou
-![ici est une description de l'image]()
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
@@ -36,7 +32,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-
+parce que j'ai accompli la plupart de mes tachês de cette semaine. Il va manquer juste ajouter quelques liens. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -49,13 +45,13 @@ ou
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le préproduction n'est pas encore terminé. On a dû recommencer une grosse partie à cause des changements. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+On va travailler plus fort. 
 
 ### Défis pour la prochaine semaine
-Finir la préproduction et la vidéo avant mardi.
+Les défis pour la semaine prochaine serait de finir la préproduction et la vidéo avant mardi.
 
 ---
 ## Semaine 2
