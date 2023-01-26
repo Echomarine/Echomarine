@@ -188,7 +188,7 @@ Petit Studio
 | Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests la session prochaine |
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino et le site web) | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Emplacement de la kinect| Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
+| Emplacement de la kinect et la communication de données| Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
 | Envoi de donner du site web au projection| Tester websocket osc  |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
