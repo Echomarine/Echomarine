@@ -38,15 +38,9 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 ## Tableau d'ambiance (*moodboard*)
 ### Inspirations
-![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199820112-ac1d6914-41f7-4f8e-b308-417609cc6734.jpg)
+![moodboard_de_base](https://user-images.githubusercontent.com/90851849/214867708-bc6e1178-d9a9-4c4f-9c98-58567f644773.jpg)
 
- [Fête des Lumières de Lyon 2014 : invasion de méduses au Parc de la Tête d'Or ! (francetvinfo.fr)](https://www.francetvinfo.fr/culture/spectacles/fete-des-lumieres-de-lyon-2014-invasion-de-meduses-au-parc-de-la-tete-d-or_3388041.html)
-
-[Exposure | Light Paint Selfies | créé par Lucion Traveling Light](https://lucion.ca/en/blog/portfolio/exposure/)
-
-[Montréal en lumière | Une Nuit blanche à domicile | La Presse](https://www.lapresse.ca/arts/2021-03-08/montreal-en-lumiere/une-nuit-blanche-a-domicile.php)
- 
-[mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
+![Jim Curious(Nuit) - 2024](https://www.editions2024.com/expo-jcn)
 
 ### Inspiration Site Web
 ![inspiration web](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
