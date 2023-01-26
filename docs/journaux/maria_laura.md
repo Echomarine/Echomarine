@@ -15,10 +15,15 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-À faire.
+* Excel pour le contenu multimedia à integrer.
+* Paragraphe sur chaque animal 
+* Exemples des sons 
+* Recherche web + projection
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](![semaine1](https://user-images.githubusercontent.com/90852162/214964424-56687681-ed8c-4acb-a107-663777ef194c.PNG)
+)
 ou
 ![ici est une description de l'image](medias/console.jpg)
 ou
