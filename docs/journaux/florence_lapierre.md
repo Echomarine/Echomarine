@@ -52,7 +52,7 @@ La préproduction n'est pas terminée, car on n'a dû recommencer une bonne part
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Mon équipe et moi allons travailler plus fort pour remettre notre préproduction à temps.
 
-### Défis pour la prochaine semaine
+#### Défis pour la prochaine semaine
 Le défis pour la semaine prochaine est de finaliser la préproduction et de faire la vidéo.
 ---
 ## Semaine 2
