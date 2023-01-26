@@ -185,8 +185,7 @@ Petit Studio
 | Trouver une place adéquate ou mettre l'ordinateur pour le cacher | Regarder endroit dispo dans le petit studio  |
 | Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests la session prochaine |
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
-| Configuration des capteurs de distance | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
-| Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino) | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
+| Connaissance limité dans la communication entre les logicels (Max, Pure Data et Arduino et le site web) | Recherche internet pour des tutoriels et tests tout au long de la session prochaine |
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
