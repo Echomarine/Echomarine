@@ -24,11 +24,7 @@
 - Nulla facilisi. Praesent vitae quam fermentum leo viverra ultrices eget nec massa. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
-ou
-![ici est une description de l'image](medias/console.jpg)
-ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
