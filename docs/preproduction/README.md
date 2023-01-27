@@ -134,9 +134,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 - 1 vidéo d'animation d'arrière plan
 - 6 spritesheets pour le site web
 
-
-## Univers artistique des éléments
-
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 
