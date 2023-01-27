@@ -50,13 +50,13 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 [Acuario Gran Canaria](https://www.tripadvisor.fr/Attraction_Review-g187472-d14788537-Reviews-Acuario_Gran_Canaria-Las_Palmas_de_Gran_Canaria_Gran_Canaria_Canary_Islands.html#/media-atf/14788537/461682554:p/?albumid=-160&type=0&category=-160)
 
-### Inspiration Site Web
+### Inspirations Site Web
 ![inspiration web](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
 
-#### Typo Site Web
+#### Typographie
 [typographie](https://fonts.google.com/specimen/Varela+Round?category=Sans+Serif,Display,Monospace#styles)
 
-### Maquette du site web
+### Maquette
 ![acceuil](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/maquette_site_web_acceuil.png)
 ![animaux](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_site_web.png)
 ![individuel](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
