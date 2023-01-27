@@ -28,7 +28,7 @@
 # Concept
 
 ## Intention de départ
-Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
+Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition ou en danger.
 
 ## Synopsis
 Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
