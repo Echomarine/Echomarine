@@ -42,11 +42,13 @@ Tout d'abord, nous avons commencé à modifier le concept et à trouver des insp
 
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851849/215156737-71bd4e0a-c9b4-4ff8-aa13-98256822f511.PNG">
 
-Nous avons fait les scénarimages en lien avec l'installation.
+Nous avons fait les scénarimages en lien avec l'installation, ainsi que les schémas.
 
 <img width="399" alt="Capture2" src="https://user-images.githubusercontent.com/90851849/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG">
 
 ![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
+
+![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
 
 Nous avons fait des recherches sur les websockets que nous connaissons peu.
 
