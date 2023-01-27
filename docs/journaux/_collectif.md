@@ -50,6 +50,6 @@ Nous avons aussi fait les scénarimages en lien avec l'installation
 
 Nous avons aussi fait des recherches sur les websockets
 
+<img width="565" alt="Capture3" src="https://user-images.githubusercontent.com/90851849/215160338-62db3ea4-c5f1-464c-b9a7-cbfbb067fb9c.PNG">
 
-<img width="987" alt="Capture3" src="https://user-images.githubusercontent.com/90851849/215160115-7f78b9ab-d437-48b4-a617-ae731017928b.PNG">
 
