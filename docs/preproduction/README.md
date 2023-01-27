@@ -51,7 +51,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![inspiration web](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
 
 #### Typographie
-[typographie](https://fonts.google.com/specimen/Varela+Round?category=Sans+Serif,Display,Monospace#styles)
+[Police qui sera utilisée](https://fonts.google.com/specimen/Varela+Round?category=Sans+Serif,Display,Monospace#styles)
 
 ### Maquette
 ![acceuil](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/maquette_site_web_acceuil.png)
