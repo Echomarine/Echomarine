@@ -20,18 +20,19 @@
 - Trouver des inspirations sonore.
 - Re-évaluer les contraintes.
 - Commencer à travailler sur le son d'ambiance.
+- Trouver un son d'océan à jouer en arrière plan.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [x] Assez
-- [ ] Peu
+- [ ] Assez
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Manque de motivation,beaucoup de stress par rapport à l'horaire et d'autres événements à l'extérieur du cégep.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
@@ -39,8 +40,8 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
-- [ ] Un peu
+- [ ] Assez
+- [x] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
