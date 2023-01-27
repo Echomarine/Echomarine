@@ -35,7 +35,7 @@
 Manque de motivation,beaucoup de stress par rapport à l'horaire et d'autres événements à l'extérieur du cégep.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Mettre des périodes de travail fixe dans mon horaire avec le temps prévu pour chaque travail. Me créer une liste de chose à faire à chaque jour. Attention de ne pas trop en mettre.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
