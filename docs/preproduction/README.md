@@ -225,7 +225,7 @@ Petit Studio
 *Dates importantes :*
 - Première itération : Semaine du 13 février 2022. (Semaine 4-5)
 - Prototype finale : Semaine du 13 mars 2022. (Semaine 7)
-- Présentation des projets devant public : Semaine du 27 mars 2022. (Semaine 9)
+- Présentation des projets devant public : Semaine du 20 mars 2022. (Semaine 8)
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:
