@@ -188,15 +188,15 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * [Node.js](https://nodejs.org/en/)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
 
 ## Ressources spatiales requises
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
+> Spécifications des espaces nécessaires.
 
 * Intérieur
 Petit Studio
+
 
 ## Contraintes techniques et potentiels problèmes de production
 
