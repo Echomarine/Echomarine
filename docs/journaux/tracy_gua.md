@@ -17,8 +17,8 @@
 ### Résumé des réalisations effectuées
 - Scénarimages pour les 6 animations principales
 - Scénarimage de l'expérience intéractive
-- Nommer les équipements qui seront nécessaires
-- Nommer les logiciels qui seront utilisés
+- Rechercher les équipements qui seront nécessaires
+- Rechercher les logiciels qui seront utilisés
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
