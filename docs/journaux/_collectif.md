@@ -20,7 +20,6 @@ Enfin, nous venons de commencer à mettre en espace le projet dans le grand stud
 On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
 
 
-
 ## Semaine 8
 
 ## Semaine 7
@@ -40,7 +39,6 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 > Cette semaine, nous avons repensé au concept de notre projet d'interactivité. Nous avons grandement modifié notre concept principal, notament la partie en lien avec l'interactivité.
 
 Tout d'abord, nous avons commencé à modifier toute la préproduction.
-
-
+<img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851849/215156737-71bd4e0a-c9b4-4ff8-aa13-98256822f511.PNG">
 
 
