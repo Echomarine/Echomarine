@@ -209,7 +209,7 @@ Petit Studio
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Connaissance limité dans la communication entre les logicels (Max, Node.js et le site web) | Recherche internet pour des tutoriels et faire des tests |
 | Emplacement de la kinect et la communication de données dans Max | Recherche de documentations sur le web |
-| Envoi de données du site web à Max | Tester websocket osc | 
+| Peu de connaissances des websockets et de Node.js | Recherche de documentations sur le web | 
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
