@@ -80,12 +80,12 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Avant l’arrivée de l’interracteur:
 > 
 * La pièce est sombre, il n'y a pas encore de projection d'animation.
-* Aucune musique.
+* Il y a une musique d'ambiance.
 
 ![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
 > Lorsque l’interracteur entre dans l'espace:
 > 
-* La musique d'ambiance est déclenchée.
+* Un effet sonore est déclenchée
 * Projection de l'animation de l'océan sans animaux.
 
 ![3](https://user-images.githubusercontent.com/90851849/215009740-c64103ad-5060-4283-aef6-40092a2f7f86.png)
