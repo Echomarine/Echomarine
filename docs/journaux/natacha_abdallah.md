@@ -45,13 +45,16 @@ Mettre des périodes de travail fixe dans mon horaire avec le temps prévu pour 
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-La direction du son n'est pas
+Le préproduction n'est pas encore terminée. On a dû recommencer une grosse partie à cause des changements.
+La direction sonore est à retravailler à cause d'un manque d'organisation et de communication.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Prévoir du temps pour organiser la gestion des tâches et des échéanciers.
 
 ### Défis pour la prochaine semaine
-
+Communiquer avec Maria à propos du son.
+Terminer la liste des inspirations sonores.
+Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouver un que j'ai déjà fait pendant une session antérieur).
 
 ---
 ## Semaine 2
