@@ -71,51 +71,51 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![1](https://user-images.githubusercontent.com/90851849/215009660-87e42c6c-31d6-4436-becc-1a1e90f527e4.png)
 > Avant l’arrivée de l’interracteur:
 > 
-* Musique d’ambiance
-* Projection de l’océan sans animaux
+* La pièce est sombre, il n'y a pas encore de projection d'animation.
+* Aucune musique.
 
 ![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
 > Lorsque l’interracteur entre dans l'espace:
 > 
-* Musique d’ambiance change
-* Projection d’animaux marins qui nagent vers le haut (du coté où se trouve l’interracteur)
-* Déclenchement de bruitages en lien avec l’animation
+* La musique d'ambiance est déclenchée.
+* Projection de l'animation de l'océan sans animaux.
 
 ![3](https://user-images.githubusercontent.com/90851849/215009740-c64103ad-5060-4283-aef6-40092a2f7f86.png)
 > L'interacteur s'approche de la tablette:
 > 
-* Musique d’ambiance
-* Une autre projection se déclenche du côté où se trouve l’interracteur
-* Après 10 secondes sans aucune détection, la projection précédente disparaît tranquillement
-* Déclenchement de bruitages en lien avec l’animation
+* L'interacteur est alors tenté de se diriger vers la tablette se trouvant au milieu de la salle.
 
 ![4 tablette](https://user-images.githubusercontent.com/90851849/215009995-5dfc72c0-e30f-472e-9a75-25e7e84ee6d2.png)
-> Lorsque l’interracteur s’éloigne:
+> Le site Web
 > 
-* Musique d’ambiance change
-* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
-* Bruitages disparaissent tranquillement
+* Face au menu de base, l'interacteur choisit un des animaux présenté.
 
 ![5](https://user-images.githubusercontent.com/90851849/215010081-55c38466-23b2-4d45-ab1b-dbeab25974ec.png)
-> Lorsque l’interracteur s’éloigne:
+> Déclenchement d'une animation
 > 
-* Musique d’ambiance change
-* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
-* Bruitages disparaissent tranquillement
+* L'animation correspondant à l'animal choisi est déclenchée.
+* L'animation est d'une durée de 10 à 15 secondes.
+* La musique d'ambiance change.
+* Un bruitage en lien avec l'animation est déclenché.
 
 ![6 tablette](https://user-images.githubusercontent.com/90851849/215010099-210320d2-02b9-41e5-91b8-d5fc161bf8c8.png)
-> Lorsque l’interracteur s’éloigne:
+> Pendant l'animation 
 > 
-* Musique d’ambiance change
-* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
-* Bruitages disparaissent tranquillement
+* L'interacteur peut lire un court paragraphe sur la situation écologique de l'animal choisi.
+* L'interacteur peut retourner au menu principal et choisir un autre animal.
 
 ![7](https://user-images.githubusercontent.com/90851849/215010141-1d30964d-d500-4fdf-b9a9-ce3cadd7452f.png)
-> Lorsque l’interracteur s’éloigne:
+> Fin de l'animation
 > 
-* Musique d’ambiance change
-* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
-* Bruitages disparaissent tranquillement
+* L'animation s'arrête après 10-15 secondes pour faire une transition à l'animation de base (océan).
+* La musique change et transitionne à la musique d'ambiance initiale.
+
+
+![1](https://user-images.githubusercontent.com/90851849/215012954-2982fc1a-fc4f-4e1c-ad95-724c5d23471d.png)
+> L'interacteur sort de l'espace
+> 
+* Toutes les projections animées disparaissent tranquillement
+* La musique s'arrête tranquillement
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
