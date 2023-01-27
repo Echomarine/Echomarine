@@ -192,7 +192,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Etc.
 
 ## Ressources spatiales requises
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
