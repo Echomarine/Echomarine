@@ -3,7 +3,6 @@
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
-    - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
@@ -26,8 +25,7 @@
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
-# Intention ou concept
-## Cartographie
+# Concept
 
 ## Intention de départ
 Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
@@ -129,11 +127,12 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
-- 3 paysages sonores
-- 3 bruitages d'animaux
+- 2 paysages sonores
+- 6 bruitages d'animaux
 - 1 bruitage d'océan
-- 6 vidéos d'animation 2D: 
--2/3 animations d'arrière plan
+- 6 vidéos d'animation 2D
+- 1 vidéo d'animation d'arrière plan
+- 6 spritesheets pour le site web
 
 
 ## Univers artistique des éléments
