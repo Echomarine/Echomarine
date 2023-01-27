@@ -244,26 +244,27 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 - Création des animaux et des plantes dans illustrator
 - Animation des éléments dans After Effects
 - Création des spritesheets pour le site web
+- Aider avec les installations d'équipement
 
 **Maria Laura Coronel (Coordination technique)**
 
+- Création de sons
+- Création du Max patch et du projet Madmapper
+- Installation de l'équipement dans l'espace physique
 
 **Florence Lapierre (Coordination artistique)**
 
 - Création du Site Web
-- Installation de l'équipement dans l'espace physique.
+- Aider avec Max patch et Madmapper
+- Installation de l'équipement dans l'espace physique
 - Comité technique
 
 **Natacha Abdallah (Coordination technique)**
 
-- Création des paysages sonores.
-- Création des bruitages de la faune et de la flore marine.
-- Intégration des sons dans l'intéractivité. (Son déclenché quand l'utilisateur s'approche de la sphère)
-- Aider avec l'installation du projet. (Sphère, projecteurs, lumières, haut-parleurs,...)
-
-**Tâches pas encore attribuées**  
-
-À déterminer
+- Création des paysages sonores
+- Création des bruitages de la faune et de la flore marine
+- Intégration des sons dans l'intéractivité
+- Aider avec l'installation d'équipement
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
