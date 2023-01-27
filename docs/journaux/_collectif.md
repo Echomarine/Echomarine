@@ -37,7 +37,9 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 ## Semaine 1
 
+> Cette semaine, nous avons repensé au concept de notre projet d'interactivité. Nous avons grandement modifié notre concept principal, notament la partie en lien avec l'interactivité.
 
+Tout d'abord, nous avons commencé à modifier toute la préproduction.
 
 
 
