@@ -78,7 +78,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ### Palette de couleur
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
-## Scénarimage 
+## Scénarimage de l'expérience
 ![1](https://user-images.githubusercontent.com/90851849/215009660-87e42c6c-31d6-4436-becc-1a1e90f527e4.png)
 > Avant l’arrivée de l’interracteur:
 > 
