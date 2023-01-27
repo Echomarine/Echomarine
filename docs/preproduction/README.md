@@ -133,6 +133,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 - 6 vidéos d'animation 2D
 - 1 vidéo d'animation d'arrière plan
 - 6 spritesheets pour le site web
+- [plus de details](https://cmontmorency365-my.sharepoint.com/:x:/g/personal/1904237_cmontmorency_qc_ca/EQf3CrOti01DqyNyCz1_9PIBXnR01vD_qqQn9obM5hAZLw)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
