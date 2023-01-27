@@ -255,7 +255,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 - Création du Site Web
 - Aider avec Max patch et Madmapper
 - Installation de l'équipement dans l'espace physique
-- Comité technique
 
 **Natacha Abdallah (Coordination technique)**
 
