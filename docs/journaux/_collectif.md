@@ -47,3 +47,8 @@ Nous avons aussi fait les scénarimages en lien avec l'installation
 <img width="399" alt="Capture2" src="https://user-images.githubusercontent.com/90851849/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG">
 
 ![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
+
+Nous avons aussi fait des recherches sur les websockets
+
+<img width="987" alt="Capture3" src="https://user-images.githubusercontent.com/90851849/215160115-7f78b9ab-d437-48b4-a617-ae731017928b.PNG">
+
