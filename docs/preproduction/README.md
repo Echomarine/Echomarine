@@ -102,7 +102,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Pendant l'animation 
 > 
 * L'interacteur peut lire un court paragraphe sur la situation écologique de l'animal choisi.
-* L'interacteur peut retourner au menu principal et choisir un autre animal.
+* L'interacteur peut retourner au menu principal, mais il doit attendre la fin de l'animation actuelle avant de pouvoir choisir un autre animal.
 
 ![7](https://user-images.githubusercontent.com/90851849/215010141-1d30964d-d500-4fdf-b9a9-ce3cadd7452f.png)
 > Fin de l'animation
