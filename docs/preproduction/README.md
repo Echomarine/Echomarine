@@ -204,11 +204,11 @@ Petit Studio
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests de son|
-| Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Connaissance limité dans la communication entre les logicels (Max, Node.js et le site web) | Recherche internet pour des tutoriels et faire des tests |
-| Emplacement de la kinect et la communication de données dans Max | Recherche de documentations sur le web |
 | Peu de connaissances des websockets et de Node.js | Recherche de documentations sur le web | 
+| Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
+| Emplacement de la kinect et la communication de données dans Max | Recherche de documentations sur le web |
+| Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests de son|
                                                   
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
