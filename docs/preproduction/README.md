@@ -233,7 +233,7 @@ Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:
 [Kanban](https://github.com/orgs/Echomarine/projects/4)
 
 
-Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
+Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 [Issues](https://github.com/Echomarine/Echomarine/issues)
 
 ## Rôles et responsabilités des membres de l'équipe
