@@ -221,7 +221,6 @@ Petit Studio
 ![image_budget](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/image_budget_interieur.PNG)
 
 
-
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 
@@ -254,7 +253,6 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 - Création du Site Web
 - Installation de l'équipement dans l'espace physique.
 - Comité technique
-
 
 **Natacha Abdallah (Coordination technique)**
 
