@@ -229,7 +229,8 @@ Petit Studio
 - Présentation des projets devant public : Semaine du 27 mars 2022. (Semaine 9)
 
 ## Liste des tâches à réaliser
-Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
+Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:
+[Kanban](https://github.com/orgs/Echomarine/projects/4)
 
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
