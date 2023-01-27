@@ -67,35 +67,55 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ### Palette de couleur
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
-## Scénarimage (formule de présentation possible)
-![scene1 1](https://user-images.githubusercontent.com/90851849/205520011-cccbcc87-c80b-4a37-af2e-154b41264b8f.png)
+## Scénarimage 
+![1](https://user-images.githubusercontent.com/90851849/215009660-87e42c6c-31d6-4436-becc-1a1e90f527e4.png)
 > Avant l’arrivée de l’interracteur:
 > 
 * Musique d’ambiance
 * Projection de l’océan sans animaux
 
-![scene2 1](https://user-images.githubusercontent.com/90851849/205520031-4b56cd5d-4719-49f5-acb4-d89dfe3319aa.png)
-> Lorsque l’interracteur s’approche:
+![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
+> Lorsque l’interracteur entre dans l'espace:
 > 
 * Musique d’ambiance change
 * Projection d’animaux marins qui nagent vers le haut (du coté où se trouve l’interracteur)
 * Déclenchement de bruitages en lien avec l’animation
 
-![scene5 1](https://user-images.githubusercontent.com/90851849/205520163-8d44b77f-9d4a-4547-8bca-47b516168229.png)
-> Lorsque l’interracteur se déplace:
+![3](https://user-images.githubusercontent.com/90851849/215009740-c64103ad-5060-4283-aef6-40092a2f7f86.png)
+> L'interacteur s'approche de la tablette:
 > 
 * Musique d’ambiance
 * Une autre projection se déclenche du côté où se trouve l’interracteur
 * Après 10 secondes sans aucune détection, la projection précédente disparaît tranquillement
 * Déclenchement de bruitages en lien avec l’animation
 
-![scene3 1](https://user-images.githubusercontent.com/90851849/205520036-c246af08-fd5b-4129-908d-d559e04c58c0.png)
+![4 tablette](https://user-images.githubusercontent.com/90851849/215009995-5dfc72c0-e30f-472e-9a75-25e7e84ee6d2.png)
 > Lorsque l’interracteur s’éloigne:
 > 
 * Musique d’ambiance change
 * Projection des animaux changent tranquillement pour l’animation par défaut (océan)
 * Bruitages disparaissent tranquillement
 
+![5](https://user-images.githubusercontent.com/90851849/215010081-55c38466-23b2-4d45-ab1b-dbeab25974ec.png)
+> Lorsque l’interracteur s’éloigne:
+> 
+* Musique d’ambiance change
+* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
+* Bruitages disparaissent tranquillement
+
+![6 tablette](https://user-images.githubusercontent.com/90851849/215010099-210320d2-02b9-41e5-91b8-d5fc161bf8c8.png)
+> Lorsque l’interracteur s’éloigne:
+> 
+* Musique d’ambiance change
+* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
+* Bruitages disparaissent tranquillement
+
+![7](https://user-images.githubusercontent.com/90851849/215010141-1d30964d-d500-4fdf-b9a9-ce3cadd7452f.png)
+> Lorsque l’interracteur s’éloigne:
+> 
+* Musique d’ambiance change
+* Projection des animaux changent tranquillement pour l’animation par défaut (océan)
+* Bruitages disparaissent tranquillement
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
