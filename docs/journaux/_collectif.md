@@ -44,6 +44,6 @@ Tout d'abord, nous avons commencé à modifier la préproduction.
 
 Nous avons aussi fait les scénarimages en lien avec l'installation
 
-<img width="406" alt="Capture2" src="https://user-images.githubusercontent.com/90851849/215157950-169900ce-690b-4a0e-b313-b7d8bc56e737.PNG">
+<img width="399" alt="Capture2" src="https://user-images.githubusercontent.com/90851849/215158934-04f86307-75ae-4314-a2a9-fe68250237ed.PNG">
 
 ![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
