@@ -186,6 +186,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * [Reaper](https://www.reaper.fm/)
 * [Max 8](https://cycling74.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Node.js](https://nodejs.org/en/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
