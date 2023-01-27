@@ -19,7 +19,7 @@
 - Schéma du branchement.
 - Trouver des inspirations sonore.
 - Re-évaluer les contraintes.
-
+- Commencer à travailler sur le son d'ambiance.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![schema_plantation](https://user-images.githubusercontent.com/90852900/214907022-c2bffbec-52fe-4762-9861-f99fa1668512.png)
