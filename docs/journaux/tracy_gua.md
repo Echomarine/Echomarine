@@ -15,23 +15,22 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Création de mon journal
-
+- Scénarimages pour les 6 animations principales
+- Scénarimage de l'expérience intéractive
+- Nommer les équipements qui seront nécessaires
+- Nommer les logiciels qui seront utilisés
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-À ajouter
+![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-À ajouter
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-À ajouter
+J'ai accompli l'ensemble les tâches qui m'étaient attribuées et je suis satisfaite du résultat.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -40,14 +39,8 @@
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-À ajouter
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-À ajouter
-
 ### Défis pour la prochaine semaine
-À ajouter
+Mon défi pour la semaine prochaine est de terminer la préproduction avant vendredi.
 
 ---
 ## Semaine 2
