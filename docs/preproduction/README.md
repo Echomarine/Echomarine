@@ -150,7 +150,9 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 ## Matériel de scénographie requis
 
-> Liste des matériaux de scénographie (matériaux de décor) requis
+> Liste des matériaux de scénographie (matériaux de décor) requis 
+* Support à tablette
+* Affiche
 
 ## Équipements requis
 > Liste des équipements requis par département
