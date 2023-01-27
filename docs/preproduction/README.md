@@ -62,6 +62,16 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![individuel](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
 ### Inspirations pour les animations
 
+## Style artistique recherchée
+![tortue](https://user-images.githubusercontent.com/90851849/206061509-f78f709a-e921-4162-8809-574bfaab78b9.png)
+![vaquita](https://user-images.githubusercontent.com/90851849/206061514-1cbb7315-aed8-4a39-8296-4ee8d784235b.png)
+![baleine](https://user-images.githubusercontent.com/90851849/206061522-e8459271-b300-431f-b5ca-9cd7656d0097.png)
+![grand requin blanc](https://user-images.githubusercontent.com/90851849/206061535-910d92dc-a140-4482-b62f-ede43973b5ae.png)
+![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
+![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
+![background_inspi](https://user-images.githubusercontent.com/90851849/206066973-5b1f8efe-9fbd-4bd2-8439-2c7627c3a5ee.png)
+
+ ## Scénarimages
 [Scénarimages des animations](https://www.figma.com/file/Viz7kn8Mhi2pYUxLinJpf8/sc%C3%A9narimages-echomarine?node-id=0%3A1&t=49voXBruhRT99lS7-1)
 
 ### Palette de couleur
@@ -123,17 +133,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 - 3 bruitages d'animaux
 - 1 bruitage d'océan
 - 6 vidéos d'animation 2D: 
-
-![tortue](https://user-images.githubusercontent.com/90851849/206061509-f78f709a-e921-4162-8809-574bfaab78b9.png)
-![vaquita](https://user-images.githubusercontent.com/90851849/206061514-1cbb7315-aed8-4a39-8296-4ee8d784235b.png)
-![baleine](https://user-images.githubusercontent.com/90851849/206061522-e8459271-b300-431f-b5ca-9cd7656d0097.png)
-![grand requin blanc](https://user-images.githubusercontent.com/90851849/206061535-910d92dc-a140-4482-b62f-ede43973b5ae.png)
-![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
-![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
-
 -2/3 animations d'arrière plan
 
-![background_inspi](https://user-images.githubusercontent.com/90851849/206066973-5b1f8efe-9fbd-4bd2-8439-2c7627c3a5ee.png)
 
 ## Univers artistique des éléments
 
