@@ -242,14 +242,14 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 
 - Création des animaux et des plantes dans illustrator
 - Animation des éléments dans After Effects
+- Création des spritesheets pour le site web
 
 **Maria Laura Coronel (Coordination technique)**
 
-À déterminer
 
 **Florence Lapierre (Coordination artistique)**
 
--  Création du Site Web
+- Création du Site Web
 - Installation de l'équipement dans l'espace physique.
 - Comité technique
 
