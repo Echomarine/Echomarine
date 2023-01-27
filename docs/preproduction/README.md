@@ -241,7 +241,7 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 - Création des animaux et des plantes dans illustrator
 - Animation des éléments dans After Effects
 - Création des spritesheets pour le site web
-- Aider avec les installations d'équipement
+- Aider avec l'installation d'équipements
 
 **Maria Laura Coronel (Coordination technique)**
 
@@ -260,7 +260,7 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 - Création des paysages sonores
 - Création des bruitages de la faune et de la flore marine
 - Intégration des sons dans l'intéractivité
-- Aider avec l'installation d'équipement
+- Aider avec l'installation d'équipements
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
