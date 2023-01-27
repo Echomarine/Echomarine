@@ -204,7 +204,6 @@ Petit Studio
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Trouver une façon de cacher les nombreux fils dans le petit studio | Faire des tests | 
 | Trouver une place adéquate pour les haut-parleurs pour laisser de la place à la spatialisation sonore | Faire des tests de son|
 | Trouver une place ou mettre les projecteurs pour couvrir les 3 murs du petit studio | Les accrocher au plafond |
 | Connaissance limité dans la communication entre les logicels (Max, Node.js et le site web) | Recherche internet pour des tutoriels et faire des tests |
