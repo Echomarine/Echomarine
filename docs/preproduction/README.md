@@ -158,7 +158,6 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 * Audio
     * 4 hauts-parleur actifs 4" (fourni par le Cegep) 
-    [Best Buy](https://www.bestbuy.ca/en-ca/product/polk-audio-polk-audio-atrium-4-80-watt-all-weather-outdoor-speaker-pair-atrium-4/10160922)
     * 1 Carte de son avec 8in et 8out (fourni par le Cegep) 
 
 * Vidéo
