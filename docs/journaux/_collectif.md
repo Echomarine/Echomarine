@@ -38,7 +38,10 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 
 > Cette semaine, nous avons repensé au concept de notre projet d'interactivité. Nous avons grandement modifié notre concept principal, notament la partie en lien avec l'interactivité.
 
-Tout d'abord, nous avons commencé à modifier toute la préproduction.
+Tout d'abord, nous avons commencé à modifier la préproduction.
+
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851849/215156737-71bd4e0a-c9b4-4ff8-aa13-98256822f511.PNG">
 
-
+Nous avons aussi fait les scénarimages en lien avec l'installation
+<img width="406" alt="Capture2" src="https://user-images.githubusercontent.com/90851849/215157950-169900ce-690b-4a0e-b313-b7d8bc56e737.PNG">
+![semaine1](https://user-images.githubusercontent.com/90851849/215015302-0343b844-4564-40ff-a26b-7f1e27b3c18b.jpg)
