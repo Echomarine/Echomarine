@@ -118,7 +118,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * La musique change et transitionne à la musique d'ambiance initiale.
 
 
-![1](https://user-images.githubusercontent.com/90851849/215012954-2982fc1a-fc4f-4e1c-ad95-724c5d23471d.png)
+ ![1](https://user-images.githubusercontent.com/90851849/215828565-a55f2ccf-d4f9-41c7-8c8c-05b6be81c631.png)
 > L'interacteur sort de l'espace
 > 
 * Toutes les projections animées disparaissent tranquillement
