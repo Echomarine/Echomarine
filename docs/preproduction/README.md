@@ -92,7 +92,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > 
 * L'interacteur est alors tenté de se diriger vers la tablette se trouvant au milieu de la salle.
 
-![Animaux](https://user-images.githubusercontent.com/90851849/215828720-2155608f-868d-46db-afa1-9c416421517a.png)
+![4 tablette](https://user-images.githubusercontent.com/90851849/215829765-761779b4-d72d-4d5f-bf61-a7a3aefa685d.png)
 > Le site Web
 > 
 * Face au menu de base, l'interacteur choisit un des animaux présenté.
@@ -105,7 +105,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * La musique d'ambiance change.
 * Un bruitage en lien avec l'animation est déclenché.
 
-![individuel](https://user-images.githubusercontent.com/90851849/215828770-577dba11-4e47-4286-a633-5801b0e1492d.png)
+![6 tablette](https://user-images.githubusercontent.com/90851849/215829805-f0702b2d-4d22-4f85-9e1d-491be29348bf.png)
 > Pendant l'animation 
 > 
 * L'interacteur peut lire un court paragraphe sur la situation écologique de l'animal choisi.
