@@ -78,19 +78,19 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
  ![1](https://user-images.githubusercontent.com/90851849/215828565-a55f2ccf-d4f9-41c7-8c8c-05b6be81c631.png)
 > Avant l’arrivée de l’interracteur:
 > 
-* La pièce est sombre, il n'y a pas encore de projection d'animation.
-* Il y a une musique d'ambiance.
+* Il y a une projection moins saturée de l'animation de l'océan sans animaux.
+* On entend un paysage sonore d'océan.
 
 ![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
 > Lorsque l’interracteur entre dans l'espace:
 > 
-* Un effet sonore est déclenchée
-* Projection de l'animation de l'océan sans animaux.
+* Un effet sonore est déclenchée.
+* La projection devient plus saturée.
 
 ![3](https://user-images.githubusercontent.com/90851849/215009740-c64103ad-5060-4283-aef6-40092a2f7f86.png)
 > L'interacteur s'approche de la tablette:
 > 
-* L'interacteur est alors tenté de se diriger vers la tablette se trouvant au milieu de la salle.
+* L'interacteur est alors tenté de se diriger vers la tablette éclairée par un spot au milieu de la salle.
 
 ![4 tablette](https://user-images.githubusercontent.com/90851849/215829765-761779b4-d72d-4d5f-bf61-a7a3aefa685d.png)
 > Le site Web
@@ -121,8 +121,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
  ![1](https://user-images.githubusercontent.com/90851849/215828565-a55f2ccf-d4f9-41c7-8c8c-05b6be81c631.png)
 > L'interacteur sort de l'espace
 > 
-* Toutes les projections animées disparaissent tranquillement
-* La musique s'arrête tranquillement
+* La projection change pour l'animation initiale moins saturée.
+
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
