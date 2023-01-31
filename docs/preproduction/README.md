@@ -102,8 +102,8 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > 
 * L'animation correspondant à l'animal choisi est déclenchée.
 * L'animation est d'une durée de 10 à 15 secondes.
-* Le paysage sonore change pour une ambiance.
-* Un bruitage en lien avec l'animation est déclenché.
+* Le paysage sonore change pour une ambiance plus dramatique.
+* Un bruitage en lien avec l'animation est aussi déclenché.
 
 ![6 tablette](https://user-images.githubusercontent.com/90851849/215829805-f0702b2d-4d22-4f85-9e1d-491be29348bf.png)
 > Pendant l'animation 
@@ -115,7 +115,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Fin de l'animation
 > 
 * L'animation s'arrête après 10-15 secondes pour faire une transition à l'animation de base (océan).
-* La musique change et transitionne à la musique d'ambiance initiale.
+* La musique change et transitionne au paysage sonore initiale.
 
 
  ![1](https://user-images.githubusercontent.com/90851849/215828565-a55f2ccf-d4f9-41c7-8c8c-05b6be81c631.png)
