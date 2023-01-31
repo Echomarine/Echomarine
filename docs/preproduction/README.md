@@ -102,7 +102,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > 
 * L'animation correspondant à l'animal choisi est déclenchée.
 * L'animation est d'une durée de 10 à 15 secondes.
-* La musique d'ambiance change.
+* Le paysage sonore change pour une ambiance.
 * Un bruitage en lien avec l'animation est déclenché.
 
 ![6 tablette](https://user-images.githubusercontent.com/90851849/215829805-f0702b2d-4d22-4f85-9e1d-491be29348bf.png)
