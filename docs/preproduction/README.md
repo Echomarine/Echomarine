@@ -96,6 +96,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Le site Web
 > 
 * Face au menu de base, l'interacteur choisit un des animaux présenté.
+* Lorsqu'il appuit, un son de goutte d'eau est déclenché. 
 
 ![5](https://user-images.githubusercontent.com/90851849/215010081-55c38466-23b2-4d45-ab1b-dbeab25974ec.png)
 > Déclenchement d'une animation
