@@ -79,7 +79,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 > Avant l’arrivée de l’interracteur:
 > 
 * Il y a une projection moins saturée de l'animation de l'océan sans animaux.
-* On entend un paysage sonore d'océan.
+* On entend un paysage sonore contenant une piste musicale mélancolique et des bruits de bulles. 
 
 ![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
 > Lorsque l’interracteur entre dans l'espace:
