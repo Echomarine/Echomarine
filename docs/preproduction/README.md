@@ -84,7 +84,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ![2](https://user-images.githubusercontent.com/90851849/215009706-1b0478a5-d465-4d6d-bfea-632d7b08d93d.png)
 > Lorsque l’interracteur entre dans l'espace:
 > 
-* Un effet sonore est déclenchée.
+* Un effet sonore est déclenchée (vagues).
 * La projection devient plus saturée.
 
 ![3](https://user-images.githubusercontent.com/90851849/215009740-c64103ad-5060-4283-aef6-40092a2f7f86.png)
