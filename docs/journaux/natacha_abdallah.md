@@ -59,7 +59,8 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Faire l'ambiance sonore de base (2-4 versions).
+- Faire l'ambiance sonore de base sans animaux (2-4 versions).
+- Spatialisation sonore de l'ambiance sonore de base sans animaux.
 - Recherche des bruitages d'animaux.
 - Faire l'effet sonore des bulles et celui des vagues.
 - Enregistrer le bruitage de la goutte d'eau.
