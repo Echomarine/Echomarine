@@ -62,6 +62,7 @@ Mon équipe et moi allons travailler plus fort pour remettre notre préproductio
 - Programmation du Css en SASS du Site Web
 - Programmation du Javascript du Site Web
 - Montage vidéo de la vidiéo de la Préproduction
+- Recherche sur les WebSockets et nodejs
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![capture_site_web_journal_2](https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png)
