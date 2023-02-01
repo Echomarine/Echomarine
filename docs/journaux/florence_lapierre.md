@@ -85,15 +85,15 @@ Je me suis beaucoup avancée dans le site web cette semaine. J’ai aussi fait d
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Oui pour le site web. Mais pour la communication entre le site web et Max il me reste encore à faire de la recherche sur le sujet.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais consacrer plus de temps à cette tâche.
 
 ### Défis pour la prochaine semaine
 
