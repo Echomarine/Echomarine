@@ -61,7 +61,7 @@ Mon équipe et moi allons travailler plus fort pour remettre notre préproductio
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![capture_site_web_journal_2](https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
