@@ -239,26 +239,26 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 
 ## Rôles et responsabilités des membres de l'équipe
 
-**Tracy Gua (Coordination générale)**
+**Tracy Gua (Coordination générale et animation)**
 
 - Création des animaux et des plantes dans illustrator
 - Animation des éléments dans After Effects
 - Création des spritesheets pour le site web
 - Aider avec l'installation d'équipements
 
-**Maria Laura Coronel (Coordination technique)**
+**Maria Laura Coronel (Son et Programmation)**
 
 - Création de sons
 - Création du Max patch et du projet Madmapper
 - Installation de l'équipement dans l'espace physique
 
-**Florence Lapierre (Coordination artistique)**
+**Florence Lapierre (Programmation)**
 
 - Création du Site Web
 - Aider avec Max patch et Madmapper
 - Installation de l'équipement dans l'espace physique
 
-**Natacha Abdallah (Coordination technique)**
+**Natacha Abdallah (Son)**
 
 - Création des paysages sonores
 - Création des bruitages de la faune et de la flore marine
