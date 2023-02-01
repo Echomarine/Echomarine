@@ -270,4 +270,4 @@ Hebdomadaire
 - Lundi 9h (1h-2h)** : Rencontre de suivi de projet.
 
 Autre: 
-- mardi 9h (1h-2h)** : Rencontre de suivi de projet.
+- Mardi 9h (1h-2h)** : Rencontre de suivi de projet.
