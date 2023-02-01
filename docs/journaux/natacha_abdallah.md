@@ -99,7 +99,9 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Faire l'ambiance sonore de l'animation avec l'animal choisit.
+- Recherche des bruitages d'animaux. (Suite)
+- Inclure l'intéractivité dans l'ambiance de l'animation avec  l'animal choisit.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
