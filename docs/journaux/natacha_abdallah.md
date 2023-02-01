@@ -59,7 +59,9 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Faire l'ambiance sonore de base.
+- Recherche des bruitages d'animaux.
+- Inclure l'intéractivité dans l'ambiance de base.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -68,7 +70,7 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -81,7 +83,7 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
