@@ -72,12 +72,12 @@ Mon équipe et moi allons travailler plus fort pour remettre notre préproductio
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je me suis beaucoup avancée dans le site web cette semaine. J’ai aussi fait de la recherche sur le websocket et la librairie nodejs à utiliser. Mais je vais continuer à me renseigner sur la communication entre le site web et max.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
