@@ -58,10 +58,14 @@ Mon équipe et moi allons travailler plus fort pour remettre notre préproductio
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Programmation de l'HTML du Site Web
+- Programmation du Css en SASS du Site Web
+- Programmation du Javascript du Site Web
+- Montage vidéo de la vidiéo de la Préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![capture_site_web_journal_2](https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png)
+![visual_studio_code](https://user-images.githubusercontent.com/90851771/216148661-b6e05ff8-4286-4796-866a-512296ae8780.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
