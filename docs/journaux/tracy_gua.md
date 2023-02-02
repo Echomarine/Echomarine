@@ -49,7 +49,7 @@ Mon défi pour la semaine prochaine est de terminer la préproduction avant vend
 - Commencer à faire des tests dans After Effects.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Capture d’écran (16)](https://user-images.githubusercontent.com/90851849/216374054-55a35bd4-ddb5-4987-8512-dcc99a1d3083.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
