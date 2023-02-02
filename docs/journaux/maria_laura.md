@@ -56,21 +56,25 @@ Les défis pour la semaine prochaine serait de finir la préproduction et la vid
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
+* Finir les bruitages pour le paysage sonore
+* Modifier la préproduction
+* Finir les paragraphe sur chaque animal
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![bulles](https://user-images.githubusercontent.com/90852162/216426681-25df0fa4-d8b0-46bc-b32d-3eca5ea4c63b.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai pas encore fini tous mes sons
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -78,18 +82,18 @@ Les défis pour la semaine prochaine serait de finir la préproduction et la vid
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+je dois encore faire plus de recherche pour la communication entre Max et websocket.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer pendant la fin de semaine.
 
 ### Défis pour la prochaine semaine
-
+Avoir fini le son.
 
 ---
 ## Semaine 3 
