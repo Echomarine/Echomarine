@@ -78,7 +78,7 @@ J'aurais aimé être plus avancée dans la réalisation des animations, car je r
 Je vais mieux organiser mon emploi du temps.
 
 ### Défis pour la prochaine semaine
-Pour la semaine prochaine, il faudra beaucoup avancer la réalisation du prototype, donc, mon défi sera de finir le plus d'animations possible afin de pouvoir tester leur projection plus tard.
+Pour la semaine prochaine, il faudra beaucoup avancer la réalisation du prototype, donc, mon défi sera de finir le plus d'animations possible afin de pouvoir tester leur projection dans le petit studio.
 
 ---
 ## Semaine 3 
