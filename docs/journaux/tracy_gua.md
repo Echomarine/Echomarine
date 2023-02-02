@@ -46,6 +46,8 @@ Mon défi pour la semaine prochaine est de terminer la préproduction avant vend
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - Terminer la préproduction.
+- Filmer la vidéo de présentation du projet.
+- Éditer la vidéo de présentation du projet.
 - Commencer à faire des tests dans After Effects.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
