@@ -59,42 +59,46 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Faire l'ambiance sonore de base sans animaux (2-4 versions).
+- Faire l'ambiance sonore de base sans animaux (2-4 versions différentes).
 - Spatialisation sonore de l'ambiance sonore de base sans animaux.
 - Faire l'effet sonore des bulles et celui des vagues.
+- Modification du schéma de plantation et de branchement. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ambiance_vcv](https://user-images.githubusercontent.com/90852900/216196266-b20a5d69-fc2e-4ed2-a8b3-421004074c8a.png)
-
+![ambiance_vcv](https://user-images.githubusercontent.com/90852900/216401238-711e2506-573f-4587-bd41-d3fcc24f40ad.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [X] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai due refaire les schémas de plantation et de branchement jeudi.
+L'ambiance sonore brûle beaucoup, j'ai besoin de faire des ajustements pour régler le problème. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais travailler sur l'ambiance sonore de base sans animaux et le montage dans reaper avec les effets sonore nécessaire Vendredi et pendant la fin de semaine.
+Me donner plus de temps cette fin de semaine pour tous compléter avant Mardi.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [X] Complètement
-- [ ] Assez
+- [ ] Complètement
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Le son de l'ambiance n'est pas terminé (Il brûle).
+Le montage de l'ambiance dans reaper n'est pas terminé à cause du son qui brûle.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Prévoir plus de temps que prévue pour pouvoir terminer tout ce que je veux faire.
 
 ### Défis pour la prochaine semaine
-
+Faire le montage final de l'ambiance sonore de base.
+Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 
 ---
 ## Semaine 3 
