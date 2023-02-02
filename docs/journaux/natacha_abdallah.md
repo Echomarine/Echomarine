@@ -61,18 +61,16 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ### Résumé des réalisations effectuées
 - Faire l'ambiance sonore de base sans animaux (2-4 versions).
 - Spatialisation sonore de l'ambiance sonore de base sans animaux.
-- Recherche des bruitages d'animaux.
 - Faire l'effet sonore des bulles et celui des vagues.
-- Enregistrer le bruitage de la goutte d'eau.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ambiance_vcv](https://user-images.githubusercontent.com/90852900/216196266-b20a5d69-fc2e-4ed2-a8b3-421004074c8a.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
-- [X] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -84,8 +82,8 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [X] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
