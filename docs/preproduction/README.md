@@ -144,7 +144,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 
 ### Schéma de branchement 
-![schema_branchement](https://user-images.githubusercontent.com/90852900/214925649-7c59db43-1a0d-405b-a446-dbc88891cd4a.png)
+![schema_branchement](https://user-images.githubusercontent.com/90852900/216382906-d5759880-c2a1-4dc1-8865-a2f348b7b395.png)
 
 
 ## Matériel de scénographie requis
