@@ -22,7 +22,7 @@ Rack patch VCV pour l'ambiance sonore de base sans animaux
  
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90852900/216401238-711e2506-573f-4587-bd41-d3fcc24f40ad.png">
 
-Nous avons commencé à se réapproprier le logiciel After Effects.
+Nous avons commencé à se réapproprier le logiciel After Effects et avons commencé à animer.
 
 ![Capture d’écran (16)](https://user-images.githubusercontent.com/90851849/216374054-55a35bd4-ddb5-4987-8512-dcc99a1d3083.png)
 
