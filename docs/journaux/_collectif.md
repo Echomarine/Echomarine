@@ -26,6 +26,9 @@ Nous avons fait aussi une partie de la programation du site Web.
 
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png">
 
+
+<img width="1282" alt="Capture" src="https://user-images.githubusercontent.com/90852162/216657192-ab93fb8c-b3b1-46f2-a868-7e71f7aac843.PNG">
+
 ## Semaine 1
 
 > Cette semaine, nous avons repensé au concept de notre projet d'interactivité. Nous avons grandement modifié notre l'idée principale, notament la partie en lien avec l'interactivité. Nous nous sommes partagé les tâches à faire pour la présentation de notre préproduction qui se fera dans 2 semaines.
