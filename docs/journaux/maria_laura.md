@@ -58,7 +58,7 @@ Les défis pour la semaine prochaine serait de finir la préproduction et la vid
 ### Résumé des réalisations effectuées
 * Finir les bruitages pour le paysage sonore
 * Modifier la préproduction
-* Finir les paragraphe sur chaque animal
+* Finir les paragraphes sur chaque animal
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
