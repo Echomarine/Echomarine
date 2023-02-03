@@ -34,7 +34,7 @@ Nou avons réalisé la vidéo de préproduction et l'avons mise en ligne sur You
 
 <img width="619" alt="Capture" src="https://user-images.githubusercontent.com/90852162/216657385-1c80802d-2069-47f8-96be-1cf92defc144.PNG">
 
-
+Pour la semaine prochaine, nous prévoyons avancer le plus possible au niveau du prototypage.
 
 ## Semaine 1
 
