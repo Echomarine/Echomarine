@@ -16,7 +16,7 @@
 
 ## Semaine 2
 
-> Cette semaine, nous avons finalisé la préproduction. Nous avons enregistrée la vidéo de la préproduction et commencée à faire nos médias comme les sons, le site web et le fond marin pour les projections. 
+> Cette semaine, nous avons finalisé la préproduction. Nous avons enregistré la vidéo de la préproduction et commencé à faire nos médias comme les sons, le site web et le fond marin pour les projections. 
  
 Rack patch VCV pour l'ambiance sonore de base sans animaux 
  
