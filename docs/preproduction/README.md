@@ -163,9 +163,11 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * Vidéo
     * 3 projecteurs vidéo (fourni par le Cegep) 
     lentille short throw(ratio 0,5) 3000 lumens
+    * Drap blanc pour projection 
     
 * Web
     * Tablette tactile
+    *  Ordinateur sur Chariot pour rouler les logiciels (fourni par le cégep) 
 
 * Électricité
     * 8 cordon IEC (pour l'alimentation des haut-parleurs)
@@ -173,12 +175,15 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 * Détection
     * Kinect (fourni par le Cegep) 
     * Rasberry Pi
+    
 * Lumière
     * Lumière RGB DMX (fourni par le Cegep)
    
 * Autre
   * [Trépied pour tablette](https://www.amazon.ca/Lamicall-tablette-compatible-t%C3%A9l%C3%A9phones-portables/dp/B0894N579V/ref=sr_1_24_sspa?keywords=stand%2Bfor%2Btablet&qid=1674674027&sprefix=stadn%2Bfor%2Bta%2Caps%2C70&sr=8-24-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPNFpDWU1PN1YwQlQmZW5jcnlwdGVkSWQ9QTA5MDg5MjMxOEVMT05aOElPWTgyJmVuY3J5cHRlZEFkSWQ9QTAwNjU2ODAxRFVHNFZIRjBSMk8md2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
   * [Affiche](https://www.vistaprint.ca/fr/produits-affichage/affiches)
+  * Ordinateur portable  pour l’installation (fourni par le cégep) 
+  * Commutateur Ethernet (Switch)
  
 ## Logiciels requis
 > Liste des logiciels requis
