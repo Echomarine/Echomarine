@@ -16,6 +16,9 @@
 
 ## Semaine 2
 
+> Cette semaine, nous avons finalisée la préproduction. Nous avons enregistrée la vidéo de la préproduction et commencée à faire nos médias comme les paysage sonore, le site web et le fond marin pour les projections. 
+ 
+ Pour
 ## Semaine 1
 
 > Cette semaine, nous avons repensé au concept de notre projet d'interactivité. Nous avons grandement modifié notre l'idée principale, notament la partie en lien avec l'interactivité. Nous nous sommes partagé les tâches à faire pour la présentation de notre préproduction qui se fera dans 2 semaines.
