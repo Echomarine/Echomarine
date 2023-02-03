@@ -16,7 +16,7 @@
 
 ## Semaine 2
 
-> Cette semaine, nous avons finalisée la préproduction. Nous avons enregistrée la vidéo de la préproduction et commencée à faire nos médias comme les sons, le site web et le fond marin pour les projections. 
+> Cette semaine, nous avons finalisé la préproduction. Nous avons enregistrée la vidéo de la préproduction et commencée à faire nos médias comme les sons, le site web et le fond marin pour les projections. 
  
  Pour l'ambiance sonore de base sans animaux 
  
@@ -26,6 +26,7 @@ Nous avons fait aussi une partie de la programation du site Web.
 
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png">
 
+Nou avons réalisé la vidéo de préproduction et l'avons mise en ligne sur Youtube.
 
 <img width="619" alt="Capture" src="https://user-images.githubusercontent.com/90852162/216657385-1c80802d-2069-47f8-96be-1cf92defc144.PNG">
 
