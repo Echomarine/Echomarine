@@ -27,7 +27,9 @@ Nous avons fait aussi une partie de la programation du site Web.
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90851771/216140402-9d784841-324e-4df8-b320-19136ae10ae2.png">
 
 
-<img width="1282" alt="Capture" src="https://user-images.githubusercontent.com/90852162/216657192-ab93fb8c-b3b1-46f2-a868-7e71f7aac843.PNG">
+<img width="619" alt="Capture" src="https://user-images.githubusercontent.com/90852162/216657385-1c80802d-2069-47f8-96be-1cf92defc144.PNG">
+
+
 
 ## Semaine 1
 
