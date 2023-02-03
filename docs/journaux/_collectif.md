@@ -18,9 +18,13 @@
 
 > Cette semaine, nous avons finalisé la préproduction. Nous avons enregistrée la vidéo de la préproduction et commencée à faire nos médias comme les sons, le site web et le fond marin pour les projections. 
  
- Pour l'ambiance sonore de base sans animaux 
+Rack patch VCV pour l'ambiance sonore de base sans animaux 
  
 <img width="610" alt="Capture1" src="https://user-images.githubusercontent.com/90852900/216401238-711e2506-573f-4587-bd41-d3fcc24f40ad.png">
+
+Nous avons commencé à se réapproprier le logiciel After Effects.
+
+![Capture d’écran (16)](https://user-images.githubusercontent.com/90851849/216374054-55a35bd4-ddb5-4987-8512-dcc99a1d3083.png)
 
 Nous avons fait aussi une partie de la programation du site Web.
 
