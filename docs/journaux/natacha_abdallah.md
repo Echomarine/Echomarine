@@ -59,9 +59,9 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-- Faire l'ambiance sonore de base sans animaux (2-4 versions différentes).
+- Fait l'ambiance sonore de base sans animaux (2-4 versions différentes).
 - Spatialisation sonore de l'ambiance sonore de base sans animaux.
-- Faire l'effet sonore des bulles et celui des vagues.
+- Modification des effets sonore des bulles et celui des vagues.
 - Modification du schéma de plantation et de branchement. 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
