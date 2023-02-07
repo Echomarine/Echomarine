@@ -63,7 +63,7 @@ Faire des tests avec les paysages sonores. (Modifier celui de Maria et/ou trouve
 - Spatialisation sonore de l'ambiance sonore de base sans animaux.
 - Modification des effets sonore des bulles et celui des vagues.
 - Modification du schéma de plantation et de branchement. 
-- Modifier la liste du matériel.
+- Mettre à jour la liste du matériel.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ambiance_vcv](https://user-images.githubusercontent.com/90852900/216401238-711e2506-573f-4587-bd41-d3fcc24f40ad.png)
