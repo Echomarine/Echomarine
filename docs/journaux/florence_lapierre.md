@@ -101,8 +101,10 @@ Je vais consacrer plus de temps à cette tâche.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- Recherche sur la conection websocket et Max
-- Avancement du css et javascript du Site Web
+- Recherche sur la connexion webSocket et Max
+- Avancement du css et JavaScript du Site Web
+- Commencer la connexion webSocket avec le Site Web
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
