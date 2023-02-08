@@ -106,6 +106,7 @@ Je vais consacrer plus de temps à cette tâche.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![Capture](https://user-images.githubusercontent.com/90851771/217592187-f0573612-a1e9-4c84-8c0a-a3b2fa8058af.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
