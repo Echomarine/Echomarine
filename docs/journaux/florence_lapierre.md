@@ -101,7 +101,7 @@ Je vais consacrer plus de temps à cette tâche.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Recherche sur la conection websocket et Max
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
