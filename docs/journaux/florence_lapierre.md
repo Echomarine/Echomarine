@@ -101,10 +101,10 @@ Je vais consacrer plus de temps à cette tâche.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- Recherche sur la connexion webSocket et Max
+- Recherche sur la connexion WebSocket et Max
 - Avancement du css et JavaScript du Site Web
-- Commencer la connexion webSocket avec le Site Web
-- Accrocher les draps blanc au rideau et les steamer
+- Commencer la connexion WebSocket avec le Site Web
+- Accrocher les draps blancs au rideau et les steamers
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -123,7 +123,7 @@ Je vais consacrer plus de temps à cette tâche.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- Je me suis beaucoup avancé dans le site web et faite des recherches concluante sur les websockets. Donc, j'ai pue m'avancer sur l'insertion des websockets au Site Web.
+Je me suis beaucoup avancé dans le site web et j’ai effectué des recherches concluantes sur les Websockets. Donc, j'ai pu m'avancer sur l'insertion du Websockets au Site Web.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -137,13 +137,14 @@ Je vais consacrer plus de temps à cette tâche.
 
 #### S'il y a des écarts, décrivez-les.
 
+Je n’ai pas réussi à intégrer complètement les Websocket au Site Web.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
 
- Mon défis pour la semaine prochaine est de finir l'insertion du websockets au Site Web et d'avoir fait des test avec les projections.
+Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Site Web et d'avoir fait des test avec les projections.
  
 ---
 ## Semaine 4
