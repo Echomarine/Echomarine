@@ -112,7 +112,7 @@ Après avoir fait un test de projection dans le petit studio, je prévois avance
 
 ### Défis pour la prochaine semaine
 
-La semaine prochaine, je vais devoir faire plus d'animations et aider avec les autres aspects du projet.
+La semaine prochaine, je vais devoir faire plus d'animations et apporter mon aide pour l'installation.
 
 ---
 ## Semaine 4
