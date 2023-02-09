@@ -83,39 +83,36 @@ Pour la semaine prochaine, il faudra beaucoup avancer la réalisation du prototy
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Commencer à animer l'arrière-plan dans After Effects
+- Commencer à installer le matériel dans le petit studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Capture d’écran (1)](https://user-images.githubusercontent.com/90851849/217834852-c85db77c-7598-4e20-ab71-b6d39646d602.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je n'ai pas atteint tous mes objectifs cette semaine, c'est-à-dire que j'aurais aimé faire plus d'animations, mais je suis quand même satisfaite de ce que j'ai réalisé.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Après avoir fait un test de projection dans le petit studio, je prévois avancer plus rapidement la réalisation des animations.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+La semaine prochaine, je vais devoir faire plus d'animations et aider avec les autres aspects du projet.
 
 ---
 ## Semaine 4
