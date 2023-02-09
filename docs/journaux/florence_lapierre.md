@@ -104,7 +104,7 @@ Je vais consacrer plus de temps à cette tâche.
 - Recherche sur la connexion webSocket et Max
 - Avancement du css et JavaScript du Site Web
 - Commencer la connexion webSocket avec le Site Web
-
+- Accrocher les draps blanc au rideau
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
