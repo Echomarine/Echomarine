@@ -112,6 +112,9 @@ Je vais consacrer plus de temps à cette tâche.
 
 ![Capture](https://user-images.githubusercontent.com/90851771/217604532-0410d256-3f5e-4d09-93c5-97deb64380a1.PNG)
 
+![MicrosoftTeams-image (3)](https://user-images.githubusercontent.com/90851771/217866382-7164916f-95e7-465b-9545-202c25086eef.png)
+
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
