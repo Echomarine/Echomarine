@@ -118,12 +118,12 @@ Je vais consacrer plus de temps à cette tâche.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je me suis beaucoup avancé dans le site web et faite des recherches concluante sur les websockets. Donc, j'ai pue m'avancer sur l'insertion des websockets au Site Web.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -131,7 +131,7 @@ Je vais consacrer plus de temps à cette tâche.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -143,6 +143,8 @@ Je vais consacrer plus de temps à cette tâche.
 
 ### Défis pour la prochaine semaine
 
+ Mon défis pour la semaine prochaine est de finir l'insertion du websockets au Site Web et d'avoir fait des test avec les projections.
+ 
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
