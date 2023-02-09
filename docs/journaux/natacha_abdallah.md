@@ -104,7 +104,7 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- Terminer l'ambiance sonore de base sans animaux.
+- Montage de l'ambiance sonore de base sans animaux dans reaper.
 - Aider Florence avec le lissage des rideaux blanc.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
