@@ -104,19 +104,18 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-- Faire l'ambiance sonore de l'animation avec l'animal choisit.
-- Recherche des bruitages d'animaux. (Suite)
-- Inclure l'intéractivité dans l'ambiance de l'animation avec  l'animal choisit.
+- Terminer l'ambiance sonore de base sans animaux.
+- Aider Florence avec le lissage des rideaux blanc.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ambiance_sans_animaux](https://user-images.githubusercontent.com/90852900/217957915-28b9075e-5cac-4c33-bd45-ff60e2f18b1a.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -129,7 +128,7 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
