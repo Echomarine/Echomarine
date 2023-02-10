@@ -98,39 +98,38 @@ Avoir fini le son.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+* On a accroché les draps blancs au rideau.
+* J'ai continué la recherche sur la connexion WebSocket et Max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![semaine3](https://user-images.githubusercontent.com/90852162/217972577-9c8a47d2-3357-4e84-8990-44745074654a.PNG)
 
-
+![IMG_7977](https://user-images.githubusercontent.com/90852162/217972871-5122be72-a043-4872-9cb0-c3673919112b.JPG)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ J'ai accompli mes tâches pour cette semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Cette semaine on a beaucoup avancé, il reste encore la connexion entre WebSocket et Max. 
 
 ### Défis pour la prochaine semaine
+Avoir fini la connexion entre WebSocket et Max.
+
+
 
 ---
 ## Semaine 4
