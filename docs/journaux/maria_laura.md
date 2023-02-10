@@ -98,7 +98,7 @@ Avoir fini le son.
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-* On a accroché les draps blancs au rideau.
+* On a accroché les draps blancs aux rideaux 
 * J'ai continué la recherche sur la connexion WebSocket et Max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
