@@ -119,10 +119,10 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Manque de motivation, stress et difficulté à ce concentrer relié à une situation personnelle.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Chercher de l'aide au SAA.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -132,12 +132,15 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+L'ambiance sonore de base sans animaux est presque terminé.
+Je n'ai pas commencé l'ambiance sonore en lien avec les animaux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre plus de temps dessus la semaine 4.
 
 ### Défis pour la prochaine semaine
+Commencer l'ambiance sonore en lien avec les animaux.
+Aider Maria avec le bruitage des animaux (recherche et conception).
 
 ---
 ## Semaine 4
