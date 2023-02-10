@@ -122,7 +122,7 @@ Faire une première version de l'ambiance sonore en lien avec l'animal choisit.
 Manque de motivation, stress et difficulté à ce concentrer relié à une situation personnelle.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Chercher de l'aide au SAA.
+Chercher de l'aide.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
