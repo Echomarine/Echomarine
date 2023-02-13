@@ -16,7 +16,7 @@
 > Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan.
 
 Recherche sur les websockets
-
+![Capture](https://user-images.githubusercontent.com/90851771/217592187-f0573612-a1e9-4c84-8c0a-a3b2fa8058af.PNG)
 
 Paysage sonore de l'océan sans animaux
 
