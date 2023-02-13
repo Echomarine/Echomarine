@@ -27,6 +27,12 @@ Animation du fond marin sans animaux
 
 ![Capture d’écran (1)](https://user-images.githubusercontent.com/90851849/217834852-c85db77c-7598-4e20-ab71-b6d39646d602.png)
 
+Installation des rideaux et des projecteurs
+
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/90851849/218486692-f3390d68-290a-45f6-9d63-832adaca4508.png)
+
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/90851849/218486586-742e8ab5-5470-4086-b84a-6419cc9a70fd.png)
+
 
 ## Semaine 2
 
