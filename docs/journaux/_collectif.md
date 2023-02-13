@@ -16,6 +16,7 @@
 > Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan.
 
 Recherche sur les websockets
+
 ![Capture](https://user-images.githubusercontent.com/90851771/217592187-f0573612-a1e9-4c84-8c0a-a3b2fa8058af.PNG)
 
 Paysage sonore de l'océan sans animaux
@@ -23,6 +24,7 @@ Paysage sonore de l'océan sans animaux
 
 Animation du fond marin sans animaux
 
+![Capture d’écran (1)](https://user-images.githubusercontent.com/90851849/217834852-c85db77c-7598-4e20-ab71-b6d39646d602.png)
 
 
 ## Semaine 2
