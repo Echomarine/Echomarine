@@ -13,7 +13,7 @@
 ## Semaine 4
 
 ## Semaine 3
-> Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan.
+> Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan. De plus, nous avons commencé l'installation dans le petit studio.
 
 Recherche sur les websockets
 
