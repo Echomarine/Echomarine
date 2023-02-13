@@ -21,6 +21,7 @@ Recherche sur les websockets
 
 Paysage sonore de l'océan sans animaux
 
+![ambiance_sans_animaux](https://user-images.githubusercontent.com/90852900/217957915-28b9075e-5cac-4c33-bd45-ff60e2f18b1a.PNG)
 
 Animation du fond marin sans animaux
 
