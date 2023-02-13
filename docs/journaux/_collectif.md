@@ -13,6 +13,17 @@
 ## Semaine 4
 
 ## Semaine 3
+> Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan.
+
+Recherche sur les websockets
+
+
+Paysage sonore de l'océan sans animaux
+
+
+Animation du fond marin sans animaux
+
+
 
 ## Semaine 2
 
