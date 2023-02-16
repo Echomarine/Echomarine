@@ -117,39 +117,36 @@ La semaine prochaine, je vais devoir faire plus d'animations et apporter mon aid
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Installation des projecteurs
+- Avancement des animations
+- Travail sur l'interactivité entre Max et le site Web
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![Capture d’écran (17)](https://user-images.githubusercontent.com/90851849/219421652-295e02f2-0b7f-40c5-a2fe-6e2c0d444d4d.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je suis satisfaite d'avoir pu trouver des solutions au niveau du site Web, mais je ne pense pas avoir réalisé assez d'animations cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Comme l'installation est prête pour faire des tests, j'aurais plus de temps pour me concentrer sur les animations et Madmapper.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+
+Pour la semaine prochaine, il va falloir travailler en équipe pour déclencher des sons et des projections avec Max et Madmapper. Je prévois aussi avancer les animations.
 
 ---
 ## Semaine 5
