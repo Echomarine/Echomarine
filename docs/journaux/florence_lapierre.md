@@ -167,8 +167,9 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
 
+ J'ai reussit a faire fonctionner les websockets avec le Site Web. J'ai aussit accrocher les hauts-parleurs et les projecteurs, donc j'ai accomplis tout mes taches pour  cette semaine.
+ 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
@@ -186,6 +187,8 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 
 
 ### Défis pour la prochaine semaine
+
+Mon d.fis pour la semaine prochaine est de
 
 ---
 ## Semaine 5
