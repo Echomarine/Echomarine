@@ -145,7 +145,10 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+ - Première version de l'univers sonore d'un animal.
+ - Aider avec l'installation des haut-parleurs.
+ - Première version de l'ambiance sonore de base sans animaux.
+ - Tester le son avec reaper.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
