@@ -154,6 +154,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![paysage_sonore_base](https://user-images.githubusercontent.com/90852900/219501969-93e76c43-191e-40fe-b2a6-e3c38b812e44.png)
 
+![univers_sonore_baleine](https://user-images.githubusercontent.com/90852900/219506957-b07841bc-cef5-41c9-9017-4dffd933dd8f.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
