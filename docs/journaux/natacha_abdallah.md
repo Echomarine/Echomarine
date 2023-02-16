@@ -147,6 +147,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ### Résumé des réalisations effectuées
  - Première version de l'univers sonore d'un animal.
  - Aider avec l'installation des haut-parleurs.
+ - Aider avec l'ajustement des projecteurs.
  - Première version de l'ambiance sonore de base sans animaux.
  - Tester le son avec reaper.
 
@@ -157,7 +158,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -171,7 +172,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
