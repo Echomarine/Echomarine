@@ -149,10 +149,10 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-- Accrocher les projecteurs et les haut-parleurs
-– Faite fonctionner les websockets sur le site Web
-– Commencer l’interactivité du site Web avec max.
 
+- Accrocher les projecteurs et les haut-parleurs.
+– Faite fonctionner les websockets sur le site Web.
+– Commencer l’interactivité du site Web avec max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/90851771/219432694-0a051662-c636-470e-be57-7df0d1feecbb.png)
