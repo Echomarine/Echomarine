@@ -188,7 +188,7 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 
 ### Défis pour la prochaine semaine
 
-Mon d.fis pour la semaine prochaine est de
+Mon defis pour la semaine prochaine est de faire fonctionner l'intéractivite avec le Site Web et les projections d'animation.
 
 ---
 ## Semaine 5
