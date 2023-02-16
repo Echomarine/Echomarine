@@ -152,13 +152,14 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/90851771/219432694-0a051662-c636-470e-be57-7df0d1feecbb.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -170,7 +171,7 @@ Mon défi pour la semaine prochaine est de finir l'insertion du Websockets au Si
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
