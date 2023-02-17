@@ -11,6 +11,25 @@
 ## Semaine 5
 
 ## Semaine 4
+> Cette semaine, nous avons installé les projecteurs et les haut-parleurs. Nous avons aussi avancé la interactivité dans max et le site web. Nous avons avancé les animations. Au niveau du son, nous avons testé les haut-parleurs et on a une première version de l'ambiance sonore de base. 
+
+Avancement des animations
+
+![Capture d’écran (17)](https://user-images.githubusercontent.com/90851849/219421652-295e02f2-0b7f-40c5-a2fe-6e2c0d444d4d.png)
+
+Interactivité du site Web avec max
+
+![Capture d’écran 2023-02-16 152632](https://user-images.githubusercontent.com/90851771/219479316-473d9d0b-9825-47b5-9995-ed08aa5bca3b.png)
+
+Installation des projecteurs et des haut-parleurs
+
+![IMG_8140](https://user-images.githubusercontent.com/90852162/219518820-270513c7-7bb9-4e01-b97b-500f658cceec.jpg)
+
+![IMG_8141](https://user-images.githubusercontent.com/90852162/219518834-4051d9f5-2b19-4b7c-8d92-c67bf21fe49c.jpg)
+
+Ambiance sonore de base dans reaper
+
+![paysage_sonore_base](https://user-images.githubusercontent.com/90852900/219501969-93e76c43-191e-40fe-b2a6-e3c38b812e44.png)
 
 ## Semaine 3
 > Cette semaine, nous avons avancé le prototypage. Nous avons continué la recherche sur les websockets et nous avons déjà une première itération de la bande sonore de base. Au niveau des animations, nous avons finilisé l'arrière-plan. De plus, nous avons commencé l'installation dans le petit studio.
