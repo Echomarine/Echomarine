@@ -176,9 +176,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ Je n'ai pas pu commencer la deuxième ambiance sonore de base avec les animaux comme je le voulais.
 
 
 ### Défis pour la prochaine semaine
