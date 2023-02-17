@@ -180,6 +180,8 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 
 
 ### Défis pour la prochaine semaine
+ Faire fonctionner le son sur les 4 haut-parleurs en même temps.
+ Commencer la deuxième ambiance sonore de base avec les animaux et un autre univers sonore pour l'animal choisit.
 
 ---
 ## Semaine 5
