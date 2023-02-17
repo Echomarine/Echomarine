@@ -164,9 +164,8 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ La première iteration du paysage sonore de base sans animaux et l'univers sonore de la baleine sont presque finit et prêt à être testé dans max.
+ J'ai besoin de faire fonctionner les ambiances dans max.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
