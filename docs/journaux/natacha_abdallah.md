@@ -171,8 +171,8 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
-- [X] Un peu
+- [X] Assez
+- [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
