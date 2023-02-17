@@ -134,7 +134,8 @@ Avoir fini la connexion entre WebSocket et Max.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+* Accrocher les projecteurs et les haut-parleurs
+* Ambiance sonore
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -143,19 +144,19 @@ Avoir fini la connexion entre WebSocket et Max.
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai accompli mes tâches de cette semaine. 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -167,7 +168,8 @@ Avoir fini la connexion entre WebSocket et Max.
 
 
 ### Défis pour la prochaine semaine
-
+ Le défi pour la semaine prochaine sera avoir fini le prototype 
+ 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
