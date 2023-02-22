@@ -202,12 +202,12 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai finalisé une bonne partie du style du site web et du son des bouttons. J'ai aussi avancer le patcher max permettant de faire l'intéractivité.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -215,7 +215,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -226,6 +226,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 
 
 ### Défis pour la prochaine semaine
+Mon défis pour la seaine prochaine est d'intégré la detection de présence avec la kinect à notre projet.
 
 ---
 ## Semaine de rattrapage
