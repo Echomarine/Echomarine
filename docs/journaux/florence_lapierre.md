@@ -194,9 +194,8 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 ## Semaine 5
 ### Résumé des réalisations effectuées
 - Mapper les projections vidéo.
-- Déclencher les animation dans max
-- Finition du style des modals
-- 
+– Déclencher les animations dans Max
+– Finition du style des modales (page personnelle des animaux du site web)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img width="888" alt="Capture" src="https://user-images.githubusercontent.com/90851771/220158949-f8926c36-0cc9-4beb-b21c-5ff0a790b62d.PNG">
@@ -213,7 +212,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai finalisé une bonne partie du style des pages individuels du site. J'ai aussi avancer le patcher max permettant de faire l'intéractivité des animations. J'ai aussi commencer à faire le mapping vidéo.
+ J’ai finalisé une bonne partie du style des pages individuelles du site. J’ai aussi avancé le patcher max permettant de faire l’interactivité des animations. J’ai aussi commencé à faire le mapping vidéo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -232,7 +231,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 
 
 ### Défis pour la prochaine semaine
-Mon défis pour la semaine prochaine est d'intégré la detection de présence avec la kinect à notre projet.
+Mon défi pour la semaine prochaine est d’intégrer la détection de présence avec la kinect à notre projet.
 
 ---
 ## Semaine de rattrapage
