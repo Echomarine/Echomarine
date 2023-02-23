@@ -195,7 +195,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 ### Résumé des réalisations effectuées
 - Mapper les projections vidéo.
 - Déclencher les animations dans Max
-– Finition du style des modales (page personnelle des animaux du site web)
+- Finition du style des modales (page personnelle des animaux du site web)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
