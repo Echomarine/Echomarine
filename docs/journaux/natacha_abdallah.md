@@ -190,7 +190,7 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
  - Ambiance sonore en lien avec les animations.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![vcv_bruitage](https://user-images.githubusercontent.com/90852900/221045418-e5a58f90-dd09-473a-819d-21889137342f.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
