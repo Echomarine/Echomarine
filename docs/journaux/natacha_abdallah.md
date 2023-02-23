@@ -186,7 +186,8 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+ - Bruitage pour les boutons du site web.
+ - Ambiance sonore en lien avec les animations.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -195,30 +196,32 @@ Aider Maria avec le bruitage des animaux (recherche et conception).
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [X] Assez
-- [ ] Peu
+- [ ] Assez
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Je me suis concentré sur mon entrevue pour mon stage. J'avais un petit manque de motivation au début de la semaine aussi.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre plus du temps sur ça vendredi et la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+J'ai pris du retard dans mon ambiance sonore en lien avec les animaux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre plus du temps sur ça vendredi et la semaine prochaine.
 
 ### Défis pour la prochaine semaine
+Terminer l'ambiance sonore en lien avec les animations.
+Aider maria avec les bruitages des animaux. (Faire 2-3).
 
 ---
 ## Semaine de rattrapage
