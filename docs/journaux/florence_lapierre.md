@@ -213,7 +213,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- J'ai finalisé une bonne partie du style du site web et du son des bouttons. J'ai aussi avancer le patcher max permettant de faire l'intéractivité.
+ J'ai finalisé une bonne partie du style des pages individuels du site. J'ai aussi avancer le patcher max permettant de faire l'intéractivité des animations. J'ai aussi commencer à faire le mapping vidéo.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -232,7 +232,7 @@ Mon défi pour la semaine prochaine est de faire fonctionner le déclenchement d
 
 
 ### Défis pour la prochaine semaine
-Mon défis pour la seaine prochaine est d'intégré la detection de présence avec la kinect à notre projet.
+Mon défis pour la semaine prochaine est d'intégré la detection de présence avec la kinect à notre projet.
 
 ---
 ## Semaine de rattrapage
