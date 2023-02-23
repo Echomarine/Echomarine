@@ -151,7 +151,8 @@ Pour la semaine prochaine, il va falloir travailler en équipe pour déclencher 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Finalisation du prototype interactif 
+- Avancement des animations
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -160,30 +161,26 @@ Pour la semaine prochaine, il va falloir travailler en équipe pour déclencher 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+Le but cette semaine était d'avoir un système interactif visuel et sonore, ce que nous avons réussi. J'ai 
+aidé avec le patch Max et Madmapper, ce qui m'a laissé moins de temps de faire des animations.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+La semaine prochaine, je prévois me concentrer entièrement sur le paufinement des animations. D'ailleurs, ce sera une semaine de création de contenu pour toute l'équipe.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+D'ici la fin de la semaine prochaine, il nous faudra une version complète de notre installation. Donc, mon défi personnel sera de terminer toutes les animations.
 
 ---
 ## Semaine de rattrapage
