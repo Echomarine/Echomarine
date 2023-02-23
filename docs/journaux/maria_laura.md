@@ -177,39 +177,33 @@ Avoir fini la connexion entre WebSocket et Max.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+* Finalisation du prototype en space.
+* Avancement du son.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/90852162/221003425-62e522ca-4b39-4b41-a610-f68b34418e83.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Nous avons réussi à faire fonctionner le prototype. On a passé beaucoup de temps dans Max ce qui a appris une grosse partie de la semaine. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+Il faudra avoir una version terminée du projet. Mon défi personnel sera de finir l'ambiance sonore.
 
 ---
 ## Semaine de rattrapage
