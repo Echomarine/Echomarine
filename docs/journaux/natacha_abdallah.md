@@ -226,7 +226,7 @@ Aider maria avec les bruitages des animaux. (Faire 2-3).
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+ - Ajouter les fils de ralongement pour la carte de son.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
