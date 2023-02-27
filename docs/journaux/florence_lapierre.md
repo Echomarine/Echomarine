@@ -276,6 +276,8 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+<img width="1196" alt="modal" src="https://user-images.githubusercontent.com/90851771/221631086-54663b29-3211-44db-970a-bb81ba7111f1.PNG">
+<img width="1915" alt="max" src="https://user-images.githubusercontent.com/90851771/221631130-96f8ea19-1811-43cc-9c8f-94a05f0e3495.PNG">
 
 
 
