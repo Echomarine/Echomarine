@@ -228,38 +228,35 @@ Aider maria avec les bruitages des animaux. (Faire 2-3).
 ### Résumé des réalisations effectuées
  - Ajouter les fils de ralongement pour la carte de son.
  - Faire le bruitage de la tortue et du thon rouge.
+ - Modification des bruitages de la tortue et du thon rouge.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![bruitage_tortue](https://user-images.githubusercontent.com/90852900/222525302-c8ba2c51-8f76-48d2-9426-2b58d271bef9.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai terminé la version finale du bruitage de la tortue et du thon rouge. (Il faut juste tester les sons pour voir s'il y a des modifications à faire). Je n'ai pas pu faire une autre version de l'ambiance en lien avec l'animation comme je le voulais.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais laisser tomber une autre version de l'ambiance sonore en lien avec l'animation.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
+Finaliser les bruitages et aider mon équipe avec la détection de présence. (Kinect)
 
 ---
 ## Semaine 6
