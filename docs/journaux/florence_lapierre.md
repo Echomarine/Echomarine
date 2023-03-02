@@ -236,8 +236,10 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
-
+- Installation de la lumière et de sa programmation dans max
+- Ajout des image final sur le Site Web et des sprites sheets.
+- Programmation dans Max pour le déclenchement des bruitages et ambiance sonores.
+- 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/90851771/221631328-1edfa92f-f11d-4ddc-9d73-ac0f4dabec1f.png)
 <img width="1920" alt="max_lumiere" src="https://user-images.githubusercontent.com/90851771/222510211-47c0b5cc-2002-42b5-99f3-548243a18ac2.PNG">
@@ -247,7 +249,7 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -260,7 +262,7 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
