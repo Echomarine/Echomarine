@@ -239,6 +239,8 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/90851771/221631328-1edfa92f-f11d-4ddc-9d73-ac0f4dabec1f.png)
+<img width="1920" alt="max_lumiere" src="https://user-images.githubusercontent.com/90851771/222510211-47c0b5cc-2002-42b5-99f3-548243a18ac2.PNG">
 
 
 
@@ -276,10 +278,6 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/90851771/221631328-1edfa92f-f11d-4ddc-9d73-ac0f4dabec1f.png)
-<img width="1920" alt="max_lumiere" src="https://user-images.githubusercontent.com/90851771/222510211-47c0b5cc-2002-42b5-99f3-548243a18ac2.PNG">
-
-
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
