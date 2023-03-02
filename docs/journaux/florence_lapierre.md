@@ -236,10 +236,10 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-- Installation de la lumière et de sa programmation dans max
-- Ajout des image final sur le Site Web et des sprites sheets.
-- Programmation dans Max pour le déclenchement des bruitages et ambiance sonores.
-- 
+- Installation de la lumière et de sa programmation dans Max
+- Ajout des images finales sur le Site Web et des sprites sheets.
+- Programmation dans Max pour le déclenchement des bruitages et ambiances sonores.
+
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/90851771/221631328-1edfa92f-f11d-4ddc-9d73-ac0f4dabec1f.png)
 <img width="1920" alt="max_lumiere" src="https://user-images.githubusercontent.com/90851771/222510211-47c0b5cc-2002-42b5-99f3-548243a18ac2.PNG">
@@ -273,6 +273,8 @@ Mon défi pour la semaine prochaine est d’intégrer la détection de présence
 
 
 ### Défis pour la prochaine semaine
+
+Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la présence d'une personne. Aussi, que le style du Site Web soit terminé.
 
 ---
 ## Semaine 6
