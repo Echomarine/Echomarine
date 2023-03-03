@@ -9,6 +9,19 @@
 ## Semaine 6
 
 ## Semaine 5
+Cette semaine, nous avons avancé le style du site web. Nous avons aussi avancé l'ambiance sonore en lien avec l'animation et les animations. De plus, nous avons fini le prototype interactif.
+
+Style du site
+
+<img width="1196" alt="modal" src="https://user-images.githubusercontent.com/90851771/220976090-33057e79-7bc6-4109-be50-b49058c56a20.PNG">
+
+Ambiance sonore
+
+![vcv_bruitage](https://user-images.githubusercontent.com/90852900/221045418-e5a58f90-dd09-473a-819d-21889137342f.PNG)
+
+Max programmation
+
+![Maxpatch](https://user-images.githubusercontent.com/90851771/220976123-f9b64a5d-ea6d-4c7c-92a4-febaace510f3.PNG)
 
 ## Semaine 4
 > Cette semaine, nous avons installé les projecteurs et les haut-parleurs. Nous avons aussi avancé la interactivité dans max et le site web. Nous avons avancé les animations. Au niveau du son, nous avons testé les haut-parleurs et on a une première version de l'ambiance sonore de base. 
