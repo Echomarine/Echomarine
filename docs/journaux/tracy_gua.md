@@ -185,39 +185,40 @@ D'ici la fin de la semaine prochaine, il nous faudra une version complète de no
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Terminer toutes les animations
+- Intégrer l'interactivité avec la kinect et le spot
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![requinBaleine](https://user-images.githubusercontent.com/90851849/222966963-ea17916e-b575-44ad-965a-646090cce559.jpg)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+J'ai réussi à compléter toutes les animations, ce qui était mon objectif de la semaine. Cependant, on a eu quelques problèmes avec l'intégration d'une vidéo d'introduction dans Max, ce qui n'a pas pu être réglé cette semaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+En équipe, on prévoit régler cela dès le début de la semaine prochaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+On a pas encore intégrer la vidéo d'introduction de base en raison de problèmes avec Max.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+On fera plus de recherches ou on demandera de l'aide à un professeur.
 
 ### Défis pour la prochaine semaine
+Dès de but de la semaine prochaine, on doit avoir une version finale de notre projet.
 
 ---
 ## Semaine 6
