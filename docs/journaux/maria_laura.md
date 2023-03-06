@@ -208,8 +208,8 @@ Il faudra avoir una version terminée du projet. Mon défi personnel sera de fin
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-Finir tous les bruitages d'animaux.
-Interactivité avec la kinect et la lumière.
+* Finir tous les bruitages d'animaux.
+* Interactivité avec la kinect et la lumière.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
