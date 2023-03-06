@@ -208,7 +208,8 @@ Il faudra avoir una version terminée du projet. Mon défi personnel sera de fin
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+Finir tous les bruitages d'animaux.
+Interactivité avec la kinect et la lumière.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -216,31 +217,25 @@ Il faudra avoir una version terminée du projet. Mon défi personnel sera de fin
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+ J'ai accomplie mes tâches de la semanine.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+Avoir fini tout pour mardi.
+ 
 
 ---
 ## Semaine 6
