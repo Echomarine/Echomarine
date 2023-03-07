@@ -7,7 +7,7 @@
 ## Semaine 7
 
 ## Semaine 6
-Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivé avec la kinect et Max. De plus, nous avons fini tous les bruitages et les animations. 
+Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivé avec la kinect. De plus, nous avons fini tous les bruitages et les animations. 
 
 Lumière
 
