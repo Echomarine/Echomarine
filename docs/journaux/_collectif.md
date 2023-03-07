@@ -7,6 +7,19 @@
 ## Semaine 7
 
 ## Semaine 6
+Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivé avec la kinect et Max. De plus, nous avons fini tous les bruitages et les animations. 
+
+Lumière
+
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/90851771/221631328-1edfa92f-f11d-4ddc-9d73-ac0f4dabec1f.png)
+
+Son
+
+![bruitage_tortue](https://user-images.githubusercontent.com/90852900/222525302-c8ba2c51-8f76-48d2-9426-2b58d271bef9.png)
+
+Animations
+
+![requinBaleine](https://user-images.githubusercontent.com/90851849/222966963-ea17916e-b575-44ad-965a-646090cce559.jpg)
 
 ## Semaine 5
 Cette semaine, nous avons avancé le style du site web. Nous avons aussi avancé l'ambiance sonore en lien avec l'animation et les animations. De plus, nous avons fini le prototype interactif.
