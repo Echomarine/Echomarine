@@ -223,7 +223,8 @@ Dès de but de la semaine prochaine, on doit avoir une version finale de notre p
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Travailler sur le patch Max et Madmapper
+- Régler les problèmes de détection
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -231,31 +232,23 @@ Dès de but de la semaine prochaine, on doit avoir une version finale de notre p
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Cette semaine, j'ai travaillé en équipe sur le patch Max afin de pouvoir faire jouer plusieurs animations à la fois. Avec l'aide de nos profs, nous avons réussi à régler le problème. Donc, nous avons actuellement une version présentable de notre projet. 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+La semaine prochaine, il nous reste à finaliser l'installation, c'est-à-dire nettoyer l'espace, cacher les fils et déplacer l'ordinateur dans la régie.
 
 ---
 ## Semaine 7
