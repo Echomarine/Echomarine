@@ -286,7 +286,6 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img width="577" alt="site web" src="https://user-images.githubusercontent.com/90851771/224112293-41b191dd-d635-4fe3-8cb6-c95dcfc61873.PNG">
 <img width="578" alt="modal" src="https://user-images.githubusercontent.com/90851771/224112273-b4d0f39e-a287-40ba-a5a2-c9e462f05ffc.PNG">
-![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/90851771/224116068-e1be69c3-2aba-4c0a-84d3-baa8a11edecf.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
