@@ -280,8 +280,8 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
--Finition du style du Site Web
--Finition du déclenchement de la lumière avec la détection de présence
+- Finition du style du Site Web
+- Finition du déclenchement de la lumière avec la détection de présence
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img width="577" alt="site web" src="https://user-images.githubusercontent.com/90851771/224112293-41b191dd-d635-4fe3-8cb6-c95dcfc61873.PNG">
