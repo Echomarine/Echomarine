@@ -317,7 +317,7 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 
 ### Défis pour la prochaine semaine
 
-Finission des derniers détails du projet.
+Finition des derniers détails du projet.
 
 ---
 ## Semaine 7
