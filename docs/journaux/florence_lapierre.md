@@ -286,10 +286,11 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 ### Image d'une réalisation dont tu es la ou le plus fier
 <img width="577" alt="site web" src="https://user-images.githubusercontent.com/90851771/224112293-41b191dd-d635-4fe3-8cb6-c95dcfc61873.PNG">
 <img width="578" alt="modal" src="https://user-images.githubusercontent.com/90851771/224112273-b4d0f39e-a287-40ba-a5a2-c9e462f05ffc.PNG">
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/90851771/224115244-124960f1-b020-4957-939d-41ff4d4aa082.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -303,7 +304,7 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -314,6 +315,8 @@ Mon défi pour la semaine prochaine est que la lumière soit déclenchée par la
 
 
 ### Défis pour la prochaine semaine
+
+Finission des derniers détails du projet.
 
 ---
 ## Semaine 7
