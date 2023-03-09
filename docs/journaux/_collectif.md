@@ -7,7 +7,9 @@
 ## Semaine 7
 
 ## Semaine 6
-Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivé avec la kinect. De plus, nous avons fini tous les bruitages et les animations. 
+
+## Semaine de ratrappage
+> Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivité avec la kinect. De plus, nous avons fini tous les bruitages et les animations. 
 
 Lumière
 
@@ -22,7 +24,7 @@ Animations
 ![requinBaleine](https://user-images.githubusercontent.com/90851849/222966963-ea17916e-b575-44ad-965a-646090cce559.jpg)
 
 ## Semaine 5
-Cette semaine, nous avons avancé le style du site web. Nous avons aussi avancé l'ambiance sonore en lien avec l'animation et les animations. De plus, nous avons fini le prototype interactif.
+> Cette semaine, nous avons avancé le style du site web. Nous avons aussi avancé l'ambiance sonore en lien avec l'animation et les animations. De plus, nous avons fini le prototype interactif.
 
 Style du site
 
@@ -32,7 +34,7 @@ Ambiance sonore
 
 ![vcv_bruitage](https://user-images.githubusercontent.com/90852900/221045418-e5a58f90-dd09-473a-819d-21889137342f.PNG)
 
-Max programmation
+Programmation Max
 
 ![Maxpatch](https://user-images.githubusercontent.com/90851771/220976123-f9b64a5d-ea6d-4c7c-92a4-febaace510f3.PNG)
 
