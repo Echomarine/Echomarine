@@ -31,7 +31,7 @@
 Par ce projet multimédia interactif, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition ou en danger.
 
 ## Synopsis
-Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
+Une projection immersive contrôlée par un dispositif interactif permettant d'apprécier la beauté des profondeurs tout en mettant de l'avant ses enjeux.
 
 ## Tableau d'ambiance (*moodboard*)
 ### Inspirations
