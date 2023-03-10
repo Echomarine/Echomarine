@@ -228,7 +228,7 @@ Dès de but de la semaine prochaine, on doit avoir une version finale de notre p
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
-
+<img width="1449" alt="image_patcherMax" src="https://user-images.githubusercontent.com/90851849/224338185-34fa4d95-aa12-464f-9747-3aadecdc50d2.PNG">
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
