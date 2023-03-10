@@ -7,6 +7,18 @@
 ## Semaine 7
 
 ## Semaine 6
+> Cette semaine, nous avons peaufiné notre installation au niveau de l'intéractivité et du son. Il y a aussi eu des modifications
+au site web.
+
+Intéraction avec la lumière
+
+
+Nouveau code pour envoyer des messages à Madmapper
+
+
+Pan des bruitages lors des animations
+
+
 
 ## Semaine de ratrappage
 > Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivité avec la kinect. De plus, nous avons fini tous les bruitages et les animations. 
