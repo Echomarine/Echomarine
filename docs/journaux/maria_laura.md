@@ -245,6 +245,7 @@ Avoir fini tout pour mardi.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/90852162/224393248-0e2ba95c-4d4a-443a-bc21-a1f562c481ac.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
