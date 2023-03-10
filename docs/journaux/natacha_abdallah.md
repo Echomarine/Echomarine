@@ -265,7 +265,7 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 - Modification du pan du thon rouge.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![pan_requin_baleine](https://user-images.githubusercontent.com/90852900/224343346-a290cf96-704a-4973-841f-38c71eb56fad.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
