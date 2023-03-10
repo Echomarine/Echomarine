@@ -16,10 +16,11 @@ Intéraction avec la lumière
 
 Nouveau code pour envoyer des messages à Madmapper
 
+<img width="1449" alt="image_patcherMax" src="https://user-images.githubusercontent.com/90851849/224338185-34fa4d95-aa12-464f-9747-3aadecdc50d2.PNG">
 
 Pan des bruitages lors des animations
 
-
+![pan_requin_baleine](https://user-images.githubusercontent.com/90852900/224343346-a290cf96-704a-4973-841f-38c71eb56fad.png)
 
 ## Semaine de ratrappage
 > Pendant la semaine de rattrapage, nous avons installé la lumière et sa programmation sur Max. Nous avons aussi programmé l'interactivité avec la kinect. De plus, nous avons fini tous les bruitages et les animations. 
