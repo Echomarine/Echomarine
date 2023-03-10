@@ -263,6 +263,7 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ### Résumé des réalisations effectuées
 - Faire le pan des 6 bruitages d'animaux.
 - Modification du pan du thon rouge.
+- Faire un son de splash qui est déclenché quand quelqu'un est détecté par la kinect à la porte.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![pan_requin_baleine](https://user-images.githubusercontent.com/90852900/224343346-a290cf96-704a-4973-841f-38c71eb56fad.png)
