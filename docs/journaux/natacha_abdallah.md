@@ -261,7 +261,8 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Faire le pan des 6 bruitages d'animaux.
+- Modification du pan du thon rouge.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -271,29 +272,30 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [X] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'étais un peu perdu et j'avais moins d'energie cette semaine. (J'ai eu une infection la semaine passée jeudi).
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Je ne suis pas sur, je vais en parler avec mes collegues en personne pour voir ce qui reste à faire.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Un peu
+- [X] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+ J'ai techniquement fini le son (bruitages et l'ambiance de base), mais je dois tester les bruitages pour vérifier si le pan suit le mouvement de chaque animal sur les projecteurs.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Je vais faire les modifications des bruitages aujourd'hui après le test.
 
 ### Défis pour la prochaine semaine
+ Reprendre le relais pour que je contribue le plus possible au projet avant le 20 mars.
 
 ---
 ## Semaine 7
