@@ -301,7 +301,9 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+ - Version finale de la spatialisation des bruitages/des ambiances des différents animaux.
+ - Lissage des rideaux blanc.
+ - Faire le balai du petit studio.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
