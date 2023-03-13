@@ -231,7 +231,7 @@ Aider maria avec les bruitages des animaux. (Faire 2-3).
  - Modification des bruitages de la tortue et du thon rouge.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![bruitage_tortue](https://user-images.githubusercontent.com/90852900/222525302-c8ba2c51-8f76-48d2-9426-2b58d271bef9.png)
+![bruitage_tortue](https://user-images.githubusercontent.com/90852900/224808949-69291db2-9171-4900-9bd7-359c881e93b9.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
