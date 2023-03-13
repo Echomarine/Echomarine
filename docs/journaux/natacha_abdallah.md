@@ -300,10 +300,15 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 
 ---
 ## Semaine 7
-### Résumé des réalisations effectuées
- - Version finale de la spatialisation des bruitages/des ambiances des différents animaux.
+### Résumé des réalisations effectuéesR
+ - Version finale de la spatialisation des bruitages des ambiances des différents animaux.
  - Lissage des rideaux blanc.
- - Faire le balai du petit studio.
+ - Passer l'aspirateur dans le petit studio et la régie.
+ - Remplacer les images des membres dans le journal individuel avec des images de meilleure qualité.
+ - Vérifier que les images s'affichent correctement sur les navigateurs safari, google chrome et microsoft edge.
+ - Remplacer les images qui ne s'affichent pas bien sur le site web. (journal, gallerie,...)
+ - Ajouter d'autres images à la gallerie pour le site web.
+ - Retravailler le schéma de branchement et d'installation.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
