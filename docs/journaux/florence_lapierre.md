@@ -22,11 +22,12 @@
 - Maquette du site web
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/moodboard_site_web.png)
+![moodboard_site_web](https://user-images.githubusercontent.com/90852900/224730974-a0263cf8-ecfd-41c4-adc8-6122bb01441d.png)
 
-![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/journaux/medias/Florence_image_individuel.png)
+![Florence_image_individuel](https://user-images.githubusercontent.com/90852900/224731071-73956f1b-ea35-4b2f-a7da-2481aeff3749.png)
 
-![ici est une description de l'image](https://github.com/Echomarine/Echomarine/blob/main/docs/preproduction/medias/image_budget_interieur.PNG)
+![image_budget_interieur](https://user-images.githubusercontent.com/90852900/224731150-536a3b2d-9557-4fb4-bcd6-62ea54773553.PNG)
+
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
 - [ ] Assez
