@@ -102,7 +102,7 @@ Avoir fini le son.
 * J'ai continué la recherche sur la connexion WebSocket et Max.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![semaine3](https://user-images.githubusercontent.com/90852162/217972577-9c8a47d2-3357-4e84-8990-44745074654a.PNG)
+![max_osc](https://user-images.githubusercontent.com/90852900/224734156-06554009-1974-4fa2-8617-9b23029a8658.PNG)
 
 ![IMG_7977](https://user-images.githubusercontent.com/90852162/217972871-5122be72-a043-4872-9cb0-c3673919112b.JPG)
 
