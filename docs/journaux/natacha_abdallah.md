@@ -304,9 +304,9 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
  - Version finale de la spatialisation des bruitages des ambiances des différents animaux.
  - Lissage des rideaux blanc.
  - Passer l'aspirateur dans le petit studio et la régie.
- - Remplacer les images des membres dans le journal individuel avec des images de meilleure qualité.
+ - Remplacer les images flou avec des images de meilleure qualité.
  - Vérifier que les images s'affichent correctement sur les navigateurs safari, google chrome et microsoft edge.
- - Remplacer les images qui ne s'affichent pas bien sur le site web. (journal, gallerie,...)
+ - Remplacer les images qui ne s'affichent pas bien et/où celles qui sont de moindre qualité sur le site web. (journal, gallerie, préproduction, bannière,...)
  - Ajouter d'autres images à la gallerie pour le site web.
  - Retravailler le schéma de branchement et d'installation.
 
