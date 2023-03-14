@@ -62,7 +62,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 #### Style artistique recherchée
 ![tortue](https://user-images.githubusercontent.com/90852900/225050398-5b918129-5daa-4bc9-9b65-1ea6171f9052.png)
 ![vaquita](https://user-images.githubusercontent.com/90851849/206061514-1cbb7315-aed8-4a39-8296-4ee8d784235b.png)
-![baleine](https://user-images.githubusercontent.com/90851849/206061522-e8459271-b300-431f-b5ca-9cd7656d0097.png)
+![baleine](https://user-images.githubusercontent.com/90852900/225052764-06b9bd6f-8219-4aab-a2f6-1e021143a64d.png)
 ![grand requin blanc](https://user-images.githubusercontent.com/90851849/206061535-910d92dc-a140-4482-b62f-ede43973b5ae.png)
 ![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
 ![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
