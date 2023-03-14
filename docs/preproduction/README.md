@@ -65,7 +65,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 ![baleine](https://user-images.githubusercontent.com/90852900/225052764-06b9bd6f-8219-4aab-a2f6-1e021143a64d.png)
 ![grand requin blanc](https://user-images.githubusercontent.com/90852900/225054461-b2d67e64-b722-4da4-899a-9558f34faf37.png)
 ![requin baleine](https://user-images.githubusercontent.com/90851849/206061548-beb4ba55-590d-4fcb-b9cf-2bda03d0925c.png)
-![thon rouge](https://user-images.githubusercontent.com/90851849/206061561-a0c1f66c-af2f-478c-91df-3eabe85f0add.png)
+![thon rouge](https://user-images.githubusercontent.com/90852900/225055747-ce6b5aea-ac7c-4201-8880-5da122481b99.png)
 ![background_inspi](https://user-images.githubusercontent.com/90851849/206066973-5b1f8efe-9fbd-4bd2-8439-2c7627c3a5ee.png)
 
 #### Scénarimages
