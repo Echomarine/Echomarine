@@ -324,6 +324,8 @@ Finition des derniers détails du projet.
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
+- Enlever la barre d'onglet sur le site web.
+- Bien rouler les fils au plafond et netoyer pour la présentation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
