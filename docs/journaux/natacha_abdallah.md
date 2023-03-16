@@ -309,15 +309,16 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
  - Remplacer les images qui ne s'affichent pas bien et/où celles qui sont de moindre qualité sur le site web. (journal, gallerie, préproduction, bannière,...)
  - Retravailler l'image de la bannière pour le site web.
  - Retravailler le schéma de branchement et d'installation.
+ - Enregistrement de ma voix pour la vidéo.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![banniere](https://user-images.githubusercontent.com/90852900/225747248-c523c0d7-a375-4574-aefe-b5043a0aa3f3.png)
-
+![pan_requin](https://user-images.githubusercontent.com/90852900/225749248-c6b56945-606d-46c8-b6f9-024d2a13778e.png)
+![pan_baleine](https://user-images.githubusercontent.com/90852900/225750586-6791a308-c78d-4142-a74d-e10fb7501a5a.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
@@ -330,7 +331,7 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [X] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
