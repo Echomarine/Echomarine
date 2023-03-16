@@ -328,25 +328,26 @@ Finition des derniers détails du projet.
 - Bien rouler les fils au plafond et netoyer pour la présentation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+ 
+  
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+
+ Oui j'ai finis le site web et j'ai aider à faire le netoyage du petit studio pour la présentation de la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -359,6 +360,7 @@ Finition des derniers détails du projet.
 
 ### Défis pour la prochaine semaine
 
+Finaliser tout les petits détails du projet pour la présentation.
 
 ## Semaine 8
 
