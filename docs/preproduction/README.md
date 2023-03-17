@@ -140,7 +140,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 ## Schémas ou plans techniques
 
 ### Plantation 
-![schema_plantation](https://user-images.githubusercontent.com/90852900/216374037-8080de26-ad2f-4eeb-83c4-d4192a348956.png)
+![schema_plantation](https://user-images.githubusercontent.com/90852900/225781465-e7fe1cdc-c672-433c-8449-20e61633266e.png)
 
 
 ### Schéma de branchement 
