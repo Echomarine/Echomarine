@@ -40,8 +40,8 @@ Mettre des périodes de travail fixe dans mon horaire avec le temps prévu pour 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
-- [x] Un peu
+- [X] Assez
+- [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
@@ -127,8 +127,8 @@ Chercher de l'aide.
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
-- [X] Un peu
+- [X] Assez
+- [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
@@ -285,8 +285,8 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
-- [X] Un peu
+- [X] Assez
+- [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
@@ -330,15 +330,10 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [X] Assez
+- [X] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
