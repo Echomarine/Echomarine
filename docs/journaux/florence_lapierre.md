@@ -328,8 +328,10 @@ Finition des derniers détails du projet.
 - Bien rouler les fils au plafond et netoyer pour la présentation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+
+ ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/90851771/225912891-0eb55ed4-c681-41f1-93d7-d25c00e4cef3.png)
  
-  
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/90851771/225913056-14dee92f-3af4-405c-b071-5f0126bf7aac.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
