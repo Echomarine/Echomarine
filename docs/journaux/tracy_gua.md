@@ -257,7 +257,7 @@ La semaine prochaine, il nous reste à finaliser l'installation, c'est-à-dire n
 - Mettre au propre l'installation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![capture](medias/VideoCapture_20230316-204837.jpg)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
