@@ -269,7 +269,7 @@ Finir les derniers details du projet et préparer l'espace.
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
-*Arranger les fils du plafond
+* Arranger les fils du plafond
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -283,10 +283,7 @@ Finir les derniers details du projet et préparer l'espace.
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ J'ai accomplie mes tâches de la semaine
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
