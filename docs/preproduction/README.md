@@ -144,7 +144,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 
 
 ### Schéma de branchement 
-![schema_branchement_2](https://user-images.githubusercontent.com/90852900/216646191-411e55c4-1b07-42d1-9458-10b1a9a38675.png)
+![schema_branchement](https://user-images.githubusercontent.com/90852900/225785431-26f2f132-36a1-4f6a-823f-5b918d67f162.png)
 
 
 ## Matériel de scénographie requis
