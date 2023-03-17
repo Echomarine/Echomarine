@@ -323,10 +323,10 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Il me reste surtout de refaire le lissage des rideaux blanc pour la diffusion du projet et de terminer d'améliorer les images pour le site web.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Je vais faire le lissage vendredi et travaillé sur le site web pendant la fin de semaine.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -342,7 +342,7 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 
 
 ### Défis pour la prochaine semaine
-
+ Terminer le lissage et les modifications pour le site web.
 
 ## Semaine 8
 
