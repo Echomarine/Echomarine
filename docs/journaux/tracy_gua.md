@@ -253,7 +253,8 @@ La semaine prochaine, il nous reste à finaliser l'installation, c'est-à-dire n
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Corriger les spritesheets sur le site Web
+- Mettre au propre l'installation
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -261,32 +262,21 @@ La semaine prochaine, il nous reste à finaliser l'installation, c'est-à-dire n
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+Cette semaine, on a prévu de finaliser le projet et de corriger les dernières petites erreurs, ce que nous avons pu accomplir.
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
-### Défis pour la prochaine semaine
-
 
 ## Semaine 8
 
