@@ -325,7 +325,7 @@ Finition des derniers détails du projet.
 ### Résumé des réalisations effectuées
 
 - Enlever la barre d'onglet sur le site web.
-- Bien rouler les fils au plafond et netoyer pour la présentation du projet.
+- Bien rouler les fils au plafond et nettoyer pour la présentation du projet.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -342,7 +342,7 @@ Finition des derniers détails du projet.
 
 #### Décrivez pourquoi.
 
- Oui j'ai finis le site web et j'ai aider à faire le netoyage du petit studio pour la présentation de la semaine prochaine.
+ Oui j'ai finis mes tâches de cette semaine, j'ai faite le site web et j'ai aider à faire le netoyage du petit studio pour la présentation de la semaine prochaine.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
