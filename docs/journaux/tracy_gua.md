@@ -1,5 +1,5 @@
 # Journal de Tracy Gua
-![portrait du participant ](../web/medias/participants/C.png)
+![portrait du participant ](../web/medias/participants/Tracy_grand.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
