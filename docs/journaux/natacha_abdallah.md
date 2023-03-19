@@ -1,5 +1,5 @@
 # Journal de Natacha Abdallah
-![portrait du participant ](../web/medias/participants/Nat_grand.png)
+![portrait du participant ](../web/medias/participants/nat_grand.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
