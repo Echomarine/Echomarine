@@ -1,5 +1,5 @@
 # Journal de Florence Lapierre
-![portrait du participant ](../web/medias/participants/Flo_grand.png)
+![portrait du participant ](../web/medias/participants/flo_grand.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
