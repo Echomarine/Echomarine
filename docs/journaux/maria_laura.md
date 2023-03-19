@@ -1,5 +1,5 @@
 # Journal de Maria Laura Coronel Petit
-![portrait du participant ](../web/medias/participants/Maria_grand.png)
+![portrait du participant ](../web/medias/participants/mar_grand.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
