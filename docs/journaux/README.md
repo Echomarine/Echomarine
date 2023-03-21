@@ -1,5 +1,5 @@
 # Exemple de Journal de "Participant X"
-![portrait du participant ](../web/medias/participants/A.png)
+![portrait du participant ](../web/medias/participants/flo_grand.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
