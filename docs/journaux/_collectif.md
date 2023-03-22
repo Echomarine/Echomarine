@@ -1,9 +1,5 @@
 # Journal de création
 
-## Semaine 9
-
-## Semaine 8
-
 ## Semaine 7
 > Cette semaine, nous avons finaliser notre installation, c'est-à-dire que nous avons nettoyé l'espace, rouler les fils et lisser les rideaux pour la présentation finale.
 
