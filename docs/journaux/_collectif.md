@@ -3,7 +3,7 @@
 ## Semaine 7
 > Cette semaine, nous avons finaliser notre installation, c'est-à-dire que nous avons nettoyé l'espace, rouler les fils et lisser les rideaux pour la présentation finale.
 
-![capture](medias/VideoCapture_20230316-204837.jpg)
+![echo](medias/echomarine_final.png)
 
 
 ## Semaine 6
