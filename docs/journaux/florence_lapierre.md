@@ -364,7 +364,3 @@ Finition des derniers détails du projet.
 
 Finaliser tout les petits détails du projet pour la présentation.
 
-## Semaine 8
-
-
-## Semaine 9
