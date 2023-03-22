@@ -5,6 +5,8 @@
 ## Semaine 8
 
 ## Semaine 7
+> Cette semaine, nous avons finaliser notre installation, c'est-à-dire que nous avons nettoyé l'espace, rouler les fils 
+
 
 ## Semaine 6
 > Cette semaine, nous avons peaufiné notre installation au niveau de l'intéractivité et du son. Il y a aussi eu des modifications
