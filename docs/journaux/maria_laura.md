@@ -296,7 +296,4 @@ Finir les derniers details du projet et préparer l'espace.
 ### Défis pour la prochaine semaine
 
 
-## Semaine 8
 
-
-## Semaine 9
