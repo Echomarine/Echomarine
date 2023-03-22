@@ -9,9 +9,6 @@
 
 ![capture](medias/VideoCapture_20230316-204837.jpg)
 
-![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/90851771/225912891-0eb55ed4-c681-41f1-93d7-d25c00e4cef3.png)
-
-![pan_baleine](https://user-images.githubusercontent.com/90852900/225750586-6791a308-c78d-4142-a74d-e10fb7501a5a.png)
 
 ## Semaine 6
 > Cette semaine, nous avons peaufiné notre installation au niveau de l'intéractivité et du son. Il y a aussi eu des modifications
