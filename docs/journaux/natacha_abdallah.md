@@ -339,7 +339,3 @@ Finaliser les bruitages et aider mon équipe avec la détection de présence. (K
 ### Défis pour la prochaine semaine
  Terminer le lissage et les modifications pour le site web.
 
-## Semaine 8
-
-
-## Semaine 9
