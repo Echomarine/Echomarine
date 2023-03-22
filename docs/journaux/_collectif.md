@@ -5,7 +5,8 @@
 ## Semaine 8
 
 ## Semaine 7
-> Cette semaine, nous avons finaliser notre installation, c'est-à-dire que nous avons nettoyé l'espace, rouler les fils 
+> Cette semaine, nous avons finaliser notre installation, c'est-à-dire que nous avons nettoyé l'espace, rouler les fils et lisser les rideaux pour la présentation finale.
+
 
 
 ## Semaine 6
