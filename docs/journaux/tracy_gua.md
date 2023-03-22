@@ -279,6 +279,6 @@ Cette semaine, on a prévu de finaliser le projet et de corriger les dernières 
 - [ ] Pas tout à fait
 
 ## Semaine 8
-
+FINIII
 
 ## Semaine 9
