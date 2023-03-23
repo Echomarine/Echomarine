@@ -71,7 +71,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 
 ![requin baleine](https://user-images.githubusercontent.com/90852900/226465982-124912e8-c5bb-4641-b2f5-274570f57641.png)
 
-![thon rouge](https://user-images.githubusercontent.com/90852900/227222615-69432b0c-e09b-46ea-9e95-afe82a023992.png)
+![thon_rouge](https://user-images.githubusercontent.com/90852900/227237107-7efb205d-fa34-46ed-9a79-17e04066f52f.png)
 
 ![background_inspi](https://user-images.githubusercontent.com/90852900/226465827-ebeed718-d730-4a80-a1cd-821e9b42ca9e.png)
 
