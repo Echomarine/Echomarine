@@ -55,6 +55,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 
 ### Maquette
 ![Animaux](https://user-images.githubusercontent.com/90851849/215825110-e087e182-fafa-42f2-81af-d69d56e0538a.png)
+
 ![individuel](https://user-images.githubusercontent.com/90851849/215825152-8064201a-1497-42bb-8167-1ca33ceb21a4.png)
 
 ### Inspirations pour les animations
@@ -70,7 +71,7 @@ Une projection immersive contrôlée par un dispositif interactif permettant d'a
 
 ![requin baleine](https://user-images.githubusercontent.com/90852900/226465982-124912e8-c5bb-4641-b2f5-274570f57641.png)
 
-![thon rouge](https://user-images.githubusercontent.com/90852900/226466020-dc7ebb3f-41e2-4902-8e7c-ab3720da9d1e.png)
+![thon rouge](https://user-images.githubusercontent.com/90852900/227239369-a2de39ce-54ec-43b2-9bb7-b6aa706936b6.png)
 
 ![background_inspi](https://user-images.githubusercontent.com/90852900/226465827-ebeed718-d730-4a80-a1cd-821e9b42ca9e.png)
 
